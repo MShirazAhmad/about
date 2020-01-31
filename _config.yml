@@ -97,9 +97,9 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Shiraz Ahmad"
-  avatar           : "/assets/images/hiraz.png"
-  bio              : "I am an **amazing** person."
-  location         : "Experimentalist, Entrepreneur, programmer, and educator."
+  avatar           : "/assets/images/shiraz.png"
+  bio              : "Experimentalist, Entrepreneur, programmer, and educator."
+  location         : "Pakistan"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
