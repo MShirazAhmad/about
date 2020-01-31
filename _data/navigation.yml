@@ -12,8 +12,8 @@ main:
     url: /
   - title: "Extra Menu Item 2"
     url: /
-  - title: "Extra Menu Item Long Title"
-    url: /
+  - title: "cv"
+    url: /cv/
 
 # sidebar navigation list sample
 sidebar-sample:
