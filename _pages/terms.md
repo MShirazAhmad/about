@@ -5,18 +5,14 @@ last_modified_at: 2016-06-06
 toc: true
 ---
 
-
-
-
 # Reflection and Transmission of Light from Multilayer Films: An easy approach, using MATLAB
-
 
 	When optical beam hits a multilayered system of different refractive indices, it gets reflected, refracted, and absorbed in a way that can be derived from the Fresnel equations. But, with increasing number of layers, math becomes complicated.  We have designed a MATLAB algorithm underlying the transfer--matrix method for the calculation of the optical properties of multilayered system and have verified it with experimental observations.
 
-
 ## Introduction
+
 	The optical beam passing through the interface of different refractive indices, changes its direction towards/away normal to the interface, and the changed direction can be calculated mathematically using refractive indices making that interface. To understand this, we can consider an example illustrated in Figure~\ref{fig:1}. Assuming $n_2$ to be sand. If a car enters into a region with higher refractive index at oblique angle, its right front wheel enters into an area of $n_2$ earlier than the left front wheel, hence starts facing lossy force earlier, causing a change in direction towards the normal. Same intuition can help to predict diverted optical path of optical beam.
-	\\
+
 	But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure~\ref{fig:2} and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
 	The direction of reflected and transmitted beams can be calculated by using Snell's Law and intensities can be computed via Fresnel coefficients as:
 	$$ 	r_p &= \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
