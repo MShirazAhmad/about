@@ -1,6 +1,7 @@
 ---
 permalink: /coursework/
 title: "Courses Studied"
+classes: wide
 ---
 {% include toc %}
 
@@ -32,7 +33,7 @@ title: "Courses Studied"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | COMP-101 | Introduction to Computer and its Applications | Dr. Muhammad Junaid Iqbal Khan |
+  | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
 
 ###  Math
@@ -42,15 +43,15 @@ title: "Courses Studied"
   | MATH-101 | Calculus-I | Dr. Awais Younus |
   | MATH-102 | Calculus-II | Dr. Awais Younus |
   | MATH-201 | Calculus-III | Dr. Awais Younus |
-  | PHYS-301 | Mathematical Methods of Physics-I | Dr. Muhammad Younus Nadeem |
-  | PHYS-302 | Mathematical Methods of Physics-II | Dr. Muhammad Younus Nadeem |
+  | PHYS-301 | Mathematical Methods of Physics-I | Dr. M. Younus Nadeem |
+  | PHYS-302 | Mathematical Methods of Physics-II | Dr. M. Younus Nadeem |
 
 ###  Electronics
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | PHYS-309 | Analog Electronics-I | Dr. Muhammad Tariq Bhatti |
-  | PHYS-310 | Analog Electronics-II | Dr. Muhammad Tariq Bhatti |
+  | PHYS-309 | Analog Electronics-I | Dr. M. Tariq Bhatti |
+  | PHYS-310 | Analog Electronics-II | Dr. M. Tariq Bhatti |
   | PHYS-421 | Digital Electronics-I | 	Dr. Ejaz Ahmad |
   | PHYS-422 | Digital Electronics-II | 	Dr. Ejaz Ahmad |
 
@@ -60,14 +61,14 @@ title: "Courses Studied"
   | ----------- | ---------------------------------------- | ---------------- |
   | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
   | PHYS-106 | Physics Laboratory-II | Fezza Ahmad |
-  | PHYS-203 | Physics Laboratory-Ill | Dr. Muhammad Ismail |
-  | PHYS-210 | Physics Laboratory-IV | Dr. Muhammad Ismail |
+  | PHYS-203 | Physics Laboratory-Ill | Dr. M. Ismail |
+  | PHYS-210 | Physics Laboratory-IV | Dr. M. Ismail |
   | PHYS-311 | Laboratory (Spectroscopy and Modern Physics) | Instructor |
   | PHYS-312 | Laboratory (Analog Electronics) | Dr. Syed Hamad Bukhari |
-  | PHYS-423 | Digital Electronics Laboratory | Dr. Muhammad Tariq Bhatti |
-  | PHYS-424 | Laboratory/Project | Dr. Muhammad Tariq Bhatti |
-  | PHY-500 | Graduate Physics Lab | Dr. Muhammad Faryad |
-  | PHY-602 | Engineering Physics Project Lab | Dr. Muhammad Sabieh Anwar |
+  | PHYS-423 | Digital Electronics Laboratory | Dr. M. Tariq Bhatti |
+  | PHYS-424 | Laboratory/Project | Dr. M. Tariq Bhatti |
+  | PHY-500 | Graduate Physics Lab | Dr. M. Faryad |
+  | PHY-602 | Engineering Physics Project Lab | Dr. M. Sabieh Anwar |
 
 ### Photonics
 
@@ -75,8 +76,8 @@ title: "Courses Studied"
   | ----------- | ---------------------------------------- | ---------------- |
   | PHYS-308 | Optics | Instructor |
   | PHYS-402 | Laser | Dr. Misbah-ul-Islam |
-  | PHY-516 | Opto-Electronic Devices | Dr. Muhammad Imran Cheema |
-  | PHY-416 | Principles of Optics | Dr. Muhammad Imran Cheema |
+  | PHY-516 | Opto-Electronic Devices | Dr. M. Imran Cheema |
+  | PHY-416 | Principles of Optics | Dr. M. Imran Cheema |
   | PHY-5112 | Quantum Chemistry and Spectroscopy | Instructor |
 
 ###  Quantum mechanics
