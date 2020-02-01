@@ -7,18 +7,12 @@ toc: true
 
 
 
-% See template introduction for guidance on setting shortarticle option
-\setboolean{shortarticle}{false}
-% true = letter / tutorial
-% false = research / review article
-% (depending on journal).
-
 
 # Reflection and Transmission of Light from Multilayer Films: An easy approach, using MATLAB
 
 
 	When optical beam hits a multilayered system of different refractive indices, it gets reflected, refracted, and absorbed in a way that can be derived from the Fresnel equations. But, with increasing number of layers, math becomes complicated.  We have designed a MATLAB algorithm underlying the transfer--matrix method for the calculation of the optical properties of multilayered system and have verified it with experimental observations.
-\end{abstract}
+
 
 ## Introduction
 	The optical beam passing through the interface of different refractive indices, changes its direction towards/away normal to the interface, and the changed direction can be calculated mathematically using refractive indices making that interface. To understand this, we can consider an example illustrated in Figure~\ref{fig:1}. Assuming $n_2$ to be sand. If a car enters into a region with higher refractive index at oblique angle, its right front wheel enters into an area of $n_2$ earlier than the left front wheel, hence starts facing lossy force earlier, causing a change in direction towards the normal. Same intuition can help to predict diverted optical path of optical beam.
