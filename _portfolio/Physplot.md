@@ -7,11 +7,6 @@ header:
     id: vDAXzjMWDyg
     provider: youtube
 collection: portfolio
----
-
-PhysPlot is a scientific plotting software with a graphical user interface, designed to produce publication-ready 2D plots. It supports vector and bitmap output, including PDF, Postscript, SVG and EPS. It allows data to be imported from text, CSV and Excel files and It can export data in text format. Datasets can also be entered within the program, and new datasets can be created via the manipulation of existing datasets using mathematical expressions.
-For details, please visit: [https://www.physlab.org/physplot/](https://www.physlab.org/physplot/)
-
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -29,3 +24,10 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+---
+
+PhysPlot is a scientific plotting software with a graphical user interface, designed to produce publication-ready 2D plots. It supports vector and bitmap output, including PDF, Postscript, SVG and EPS. It allows data to be imported from text, CSV and Excel files and It can export data in text format. Datasets can also be entered within the program, and new datasets can be created via the manipulation of existing datasets using mathematical expressions.
+For details, please visit: [https://www.physlab.org/physplot/](https://www.physlab.org/physplot/)
+
+
+{% include feature_row %}
