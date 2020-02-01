@@ -10,7 +10,7 @@ When optical beam hits a multilayered system of different refractive indices, it
 
 
 
-
+# INTRODUCTION
 The optical beam passing through the interface of different refractive indices, changes its direction towards/away normal to the interface, and the changed direction can be calculated mathematically using refractive indices making that interface. To understand this, we can consider an example illustrated in Figure~\ref{fig:1}. Assuming $n_2$ to be sand. If a car enters into a region with higher refractive index at oblique angle, its right front wheel enters into an area of $n_2$ earlier than the left front wheel, hence starts facing lossy force earlier, causing a change in direction towards the normal. Same intuition can help to predict diverted optical path of optical beam.
 But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure~\ref{fig:2} and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
 The direction of reflected and transmitted beams can be calculated by using Snell's Law and intensities can be computed via Fresnel coefficients as:
@@ -21,6 +21,8 @@ $$ t_p = \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2},\\
 $$ r_s = \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
 
 These coefficients can easily be used on single interface, but for multilayered system, matrix transformation method is more useful.
+
+## Matrix Method
 
 Suppose we have a multilayered system having $N$ refractive indices stacked together making $N-1$ interfaces with refractive index $n_j$, impedance $Z_j$, thickness $d_j$ for layer $j$. Also the layer $0$ is semi--infinite with $Z = - \infty$ and layer $N$ is being treated semi--infinite with $Z =  \infty$ and phase change is $\phi_j$.
 
@@ -69,9 +71,12 @@ $$ R = rr' \quad\text{and}\quad T = tt', $$
 where $r'$ and $t'$ are the complex conjugates of $r$ and $t$.
 \section{Algorithm}
 
+# ALGORITHM
 We implement the matrix transformation method via MATLAB. Syntax of such function is
 
 $$ \theta_\text{incident},R_s,R_p,T_s,T_p]=\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda. $$
 
 
 Here \textit{MultiLayerFilm} is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
+
+# EXPERIMENTAL SETUP
