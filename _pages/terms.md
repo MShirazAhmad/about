@@ -1,3 +1,11 @@
+---
+permalink: /terms/
+title: "Terms and Privacy Policy"
+last_modified_at: 2016-06-06
+toc: true
+---
+
+
 
 % See template introduction for guidance on setting shortarticle option
 \setboolean{shortarticle}{false}
@@ -21,17 +29,16 @@
 	r_s &= \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2}, \\
 	t_p &= \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
 	r_s &= \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
-		    \begin{figure}[H]
-    	\centering
+
+
     	\includegraphics[width=6.5cm]{SneilsLaw}
     	\caption{Car entering into sand (intuition)}
-    	\label{fig:1}
 
-    	\centering
+
     	\includegraphics[width=6.5cm]{ppol}
     	\caption{Refraction of optical beam at the interface between two media of different refractive indices}
-    	\label{fig:2}
-    \end{figure}
+
+
     	These coefficients can easily be used on single interface, but for multilayered system, matrix transformation method is more useful.
 
 	Suppose we have a multilayered system\cite{zangwill_zangwill_2018} having $N$ refractive indices stacked together making $N-1$ interfaces with refractive index $n_j$, impedance $Z_j$, thickness $d_j$ for layer $j$. Also the layer $0$ is semi--infinite with $Z = - \infty$ and layer $N$ is being treated semi--infinite with $Z =  \infty$ and phase change is $\phi_j$.
@@ -58,12 +65,9 @@
 
 	To find $r$ or $t$ for any configuration of multilayered system, we only need to compute the characteristic matrices for each film, multiply them and substitute resulting matrix elements into the Eqs.~(\ref{eq:9}) and~(\ref{eq:10}).
 
-    	\begin{figure}[H]
-    		\centering
+
     		\includegraphics[width=6.5cm]{MultiLayers}
     		\caption{Propagation of optical beam through a multilayer structure consisting of the materials with different indices of refraction.  }
-    		\label{fig:3}
-    	\end{figure}
     To find reflection and transmission coefficients, we have
 
 	$$ 	R = rr' \quad\text{and}\quad T = tt', $$
@@ -75,62 +79,31 @@
 
 	Here \textit{MultiLayerFilm} is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
 
-		\begin{algorithm}
+
 		\caption{$\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\label{alg:euclid}\\
-		}
-		\begin{algorithmic}[1]
-			\For{$\theta_i := \theta_{Incident}^*$}
-			\State $\theta_{i_{1 \rightarrow N}}=\textit{SneilsLaw}(n_{1 \rightarrow N},\theta_i)$
-			\State $\phi_{2\rightarrow K} = n_{2 \rightarrow K}d_{2 \rightarrow K}\frac{2\pi}{\lambda}$ \Comment{here $K=N-1$}
-			\State $Z_s = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}\cos\theta_{1 \rightarrow N}$
-			\State $m_s = \textit{Matrix}(\phi_{2 \rightarrow K},Z_s)$
-			\State $[R_s,T_s] = \textit{RT}(m_s,Z_{s1},Z_{sN})$
-			\State $Z_p = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}/\cos\theta_{1 \rightarrow N}$
-			\State $m_p = \textit{Matrix}(\phi_{2 \rightarrow K},Z_)$
-			\State $[R_p,T_p] = \textit{RT}(m_p,Z_{p1},Z_{pN})$
-			\EndFor
-			\State \textit{End.}
-			\State $\textit{rtplot}(\theta_{Incident}^*,R_s,R_p,T_s,T_p)$
-		\end{algorithmic}
-		$^* \theta_{Incident}$ is an array.\\
-		User defined functions are in boldface.
-	\end{algorithm}
+
+
+			 $\theta_{i_{1 \rightarrow N}}=\textit{SneilsLaw}(n_{1 \rightarrow N},\theta_i)$
+			 $\phi_{2\rightarrow K} = n_{2 \rightarrow K}d_{2 \rightarrow K}\frac{2\pi}{\lambda}$ \Comment{here $K=N-1$}
+			 $Z_s = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}\cos\theta_{1 \rightarrow N}$
+			 $m_s = \textit{Matrix}(\phi_{2 \rightarrow K},Z_s)$
+			 $[R_s,T_s] = \textit{RT}(m_s,Z_{s1},Z_{sN})$
+			 $Z_p = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}/\cos\theta_{1 \rightarrow N}$
+			 $m_p = \textit{Matrix}(\phi_{2 \rightarrow K},Z_)$
+			 $[R_p,T_p] = \textit{RT}(m_p,Z_{p1},Z_{pN})$
+
+
 
 	Let we have two layers of thickness \SI{1}{\milli\meter} and \SI{0.2}{\milli\meter} separated with distance of \SI{0.3}{\milli\meter} having refractive indices  $1.4, 1.5$, wavelength \SI{1547}{\nano\meter}. Now we want to find $R_s, R_p, T_s, T_p$ for incident angles from \ang{0} to \ang{90} with the following function.
 	\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/command.m}
 
 	This generate arrays \texttt{Incident, RS, RP, TS, TP} corresponding to $\theta_\text{incident}, R_s, R_p, T_s, T_p$, as shown in figure~\ref{fig:4}
 
-	\begin{figure}[H]
-		\centering
+
 		\includegraphics[scale=1.0]{MatlabWorkSpace.png}
 		\caption{Workspace of MATLAB showing output values of function \textit{MultiLayerFilm}.}
-		\label{fig:4}
-	\end{figure}
-~
 
 ## Experimental Setup
 	Experimental setup is shown in Figure~\ref{fig:Schematic diagram}. We used two transparent materials of thickness \SI {1}{\milli\meter}, \SI{2.288}{\milli\meter} having refractive indices $1.47, 1.5007$ (at $\lambda = \SI{1547}{\nano\meter}$ ) with separation of \SI{0.302}{\milli\meter} and placed on a rotating table. Optical power sensor that can be rotated along the table to measure transmitted/reflected beam. Actual setup is shown in Figure~\ref{fig:setup} and measured reflection and transmission coefficients for $\theta_i \text{ from } \ang{1} \text{ to } \ang{90}$ and measured corresponding transmission and reflection power amplitudes, for both $s$ and $p$ polarized optical beams.
 ## Results and Discussion
 	Figure~\ref{fig:6} show results of our experimentally measured transmission/reflection intensities, measured for different incident angles $\theta_i(\ang{0} \rightarrow \ang{90})$. Here lines represent theoretical plots generated by algorithm~(\ref{alg:euclid}) and stars represent experimental measurements which exactly matches to the observations based on MATLAB algorithm.
-	\begin{figure}[H]
-		\centering
-		\includegraphics[width=\linewidth]{./codes/Results}
-		\caption{Power coefficients, lines show theoretical and stars show experimental results.}
-		\label{fig:6}
-	\end{figure}
-	\begin{figure}[H]
-		\centering
-		\includegraphics[width=7cm]{experiment.png}
-		\caption{Screen shot of experimental setup}
-		\label{fig:setup}
-	\end{figure}
-\end{absolutelynopagebreak}
-\begin{figure}[H]
-		\centering
-		\includegraphics[width=6.5cm]{Setup}
-		\caption{Schematic diagram of experimental setup.}
-		\label{fig:Schematic diagram}
-\end{figure}
-\section{Appendix}
-%\begin{appendices}
