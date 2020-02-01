@@ -1,4 +1,7 @@
 ---
+title: "About Me"
+permalink: /about-me/
+author_profile: true
 excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
