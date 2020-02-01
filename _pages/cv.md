@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+$$ E = mc^2 $$
 
 #  Education
 : [Subjects Studied](https://shiraz-ahmad.com/coursework/)
