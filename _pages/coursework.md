@@ -10,9 +10,9 @@ title: "Courses Studied"
 ###  English
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | ENGL-101 | English-I (Functional English) | Instructor |
-  | ENGL-102 | English-II (Communication Skills) | Instructor |
-  | ENGL-201 | English-III (Report Writing) | Instructor |
+  | ENGL-101 | English-I (Functional English) | Momina Zaidi |
+  | ENGL-102 | English-II (Communication Skills) | Momina Zaidi |
+  | ENGL-201 | English-III (Report Writing) | Momina Zaidi |
 
 ###  Management
   | Course Code | Description |Instructor |
@@ -28,8 +28,8 @@ title: "Courses Studied"
 ###  Computer Sciences
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | COMP-101 | Introduction to Computer & its Applications | Instructor |
-  | PHYS-307 | Computational Physics with C++ | Instructor |
+  | COMP-101 | Introduction to Computer & its Applications | Dr. Muhammad Junaid Iqbal Khan |
+  | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
 
 ###  Math
 | Course Code | Description |Instructor |
@@ -45,30 +45,30 @@ title: "Courses Studied"
   | -------- | -------- | -------- |
   | PHYS-309 | Analog Electronics-I | Instructor |
   | PHYS-310 | Analog Electronics-II | Instructor |
-  | PHYS-421 | Digital Electronics-I | Instructor |
-  | PHYS-422 | Digital Electronics-II | Instructor |
+  | PHYS-421 | Digital Electronics-I | 	Dr. Ejaz Ahmad |
+  | PHYS-422 | Digital Electronics-II | 	Dr. Ejaz Ahmad |
 
 ###  Experimental Physics
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | PHYS-103 | Physics Laboratory-I | Instructor |
+  | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
   | PHYS-106 | Physics Laboratory-II | Instructor |
   | PHYS-203 | Physics Laboratory-Ill | Instructor |
   | PHYS-210 | Physics Laboratory-IV | Instructor |
   | PHYS-311 | Laboratory (Spectroscopy & Modern Physics) | Instructor |
-  | PHYS-312 | Laboratory (Analog Electronics) | Instructor |
-  | PHYS-423 | Digital Electronics Laboratory | Instructor |
-  | PHYS-424 | Laboratory/Project | Instructor |
-  | PHY-500 | Graduate Physics Lab | Instructor |
-  | PHY-602 | Engineering Physics Project Lab | Instructor |
+  | PHYS-312 | Laboratory (Analog Electronics) | Dr. Muhammad Tariq Bhatti |
+  | PHYS-423 | Digital Electronics Laboratory | Dr. Muhammad Tariq Bhatti |
+  | PHYS-424 | Laboratory/Project | Dr. Muhammad Tariq Bhatti |
+  | PHY-500 | Graduate Physics Lab | Dr. Muhammad Faryad |
+  | PHY-602 | Engineering Physics Project Lab | Dr. Muhammad Sabieh Anwar |
 
 ### Photonics
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-308 | Optics | Instructor |
-  | PHYS-402 | Laser | Instructor |
-  | PHY-516 | Opto-Electronic Devices | Instructor |
-  | PHY-416 | Principles of Optics | Instructor |
+  | PHYS-402 | Laser | Dr. Misbah-ul-Islam |
+  | PHY-516 | Opto-Electronic Devices | Dr. Muhammad Imran Cheema |
+  | PHY-416 | Principles of Optics | Dr. Muhammad Imran Cheema |
   | PHY-5112 | Quantum Chemistry & Spectroscopy | Instructor |
 
 ###  Quantum mechanics
@@ -77,7 +77,7 @@ title: "Courses Studied"
   | PHYS-303 | Quantum Mechanics-I | Instructor |
   | PHYS-304 | Quantum Mechanics-II | Instructor |
   | PHY-517 | Quantum Mechanics III | Instructor |
-  | PHYS-401 | Nuclear Physics | Instructor |
+  | PHYS-401 | Nuclear Physics | Mr. Asim Javed |
 
 ### Material Sciences
   | Course Code | Description |Instructor |
