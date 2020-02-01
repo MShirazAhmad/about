@@ -10,7 +10,9 @@ redirect_from:
 $$ E = mc^2 $$
 
 #  Education
-: [Subjects Studied](https://shiraz-ahmad.com/coursework/)
+
+[Subjects Studied](https://shiraz-ahmad.com/coursework/)
+
 <p style="margin-left: 40px"><b>Master of Science (MS), Physics</b>
 <br>Lahore University of Management Sciences, Lahore, Pakistan
 <br><i>Sep 2017 – Jun 2019</i></p>
@@ -48,7 +50,7 @@ $$ E = mc^2 $$
 
 
 <p style="margin-left: 40px"><b>Chairperson & Founder</b>
-<br>Tuition Hub (http://tuitionhub.pk/), Lahore, Pakistan
+<br> [Tuition Hub](http://tuitionhub.pk/), Lahore, Pakistan
 <br><i>2018 – Present</i>
 <br>- Registered tutors: 1000+
 <br>- Students served: 100+
@@ -72,27 +74,12 @@ $$ E = mc^2 $$
 
 <p style="margin-left: 40px"><b>Software</b>
 <br> MATLAB, Maplesoft, Mathematica, NI Multisim, Adobe Illustrator, Microsoft Visio
-  
+
 <p style="margin-left: 40px"><b>Programming languages</b>
 <br> Python, C++, LATEX, VLog (FPGA)
-  
+
 <p style="margin-left: 40px"><b>Hardware prototyping</b>
 <br>NI DAQ, Software-defined radio, Arduino, Lock–in Amplifier
-  
+
 <p style="margin-left: 40px"><b>Interests/expertise</b>
 <br> Optoelectronics, Optics, Electronics, Programming
-
-#  Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-#  Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#  Service and leadership
-
-* Currently signed in to 43 different slack teams
