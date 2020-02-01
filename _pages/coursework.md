@@ -8,12 +8,6 @@ title: "Courses Studied"
 
 ## BS/MS Coursework
 ###  English
-| Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
   | Course Code | Description |   Instructor    |
   | -------- | -------- | -------- |
@@ -45,9 +39,9 @@ title: "Courses Studied"
 
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | MATH-101 | Calculus-I | Instructor |
-  | MATH-102 | Calculus-II | Instructor |
-  | MATH-201 | Calculus-III | Instructor |
+  | MATH-101 | Calculus-I | Dr. Awais Younus |
+  | MATH-102 | Calculus-II | Dr. Awais Younus |
+  | MATH-201 | Calculus-III | Dr. Awais Younus |
   | PHYS-301 | Mathematical Methods of Physics-I | Dr. Muhammad Younus Nadeem |
   | PHYS-302 | Mathematical Methods of Physics-II | Dr. Muhammad Younus Nadeem |
 
@@ -89,7 +83,7 @@ title: "Courses Studied"
 
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | PHYS-303 | Quantum Mechanics-I | Instructor |
+  | PHYS-303 | Quantum Mechanics-I | Dr. Javed Ahmad |
   | PHYS-304 | Quantum Mechanics-II | Instructor |
   | PHY-517 | Quantum Mechanics III | Instructor |
   | PHYS-401 | Nuclear Physics | Mr. Asim Javed |
