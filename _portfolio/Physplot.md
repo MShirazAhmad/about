@@ -1,5 +1,5 @@
 ---
-title: "Physplot - Data Analysis and Graphing Software"
+title: "Physplot"
 excerpt: "Data/Error Analysis Software"
 header:
   teaser: assets/images/physplot.png
