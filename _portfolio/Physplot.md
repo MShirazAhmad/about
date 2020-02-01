@@ -1,6 +1,6 @@
 ---
 title: "Physplot - Data Analysis and Graphing Software"
-excerpt: "Python Libraries Used: NumPy, SciPy, Matplotlib, Pandas, PyQt<br/><img src='/images/physplot.png'>"
+excerpt: "Data/Error Analysis Software"
 header:
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
   video:
