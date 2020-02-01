@@ -32,13 +32,13 @@ title: "Courses Studied"
 
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | EDUC-111 | Teaching & Learning | Instructor |
+  | EDUC-111 | Teaching and Learning | Instructor |
 
 ###  Computer Sciences
 
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | COMP-101 | Introduction to Computer & its Applications | Dr. Muhammad Junaid Iqbal Khan |
+  | COMP-101 | Introduction to Computer and its Applications | Dr. Muhammad Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
 
 ###  Math
@@ -48,15 +48,15 @@ title: "Courses Studied"
   | MATH-101 | Calculus-I | Instructor |
   | MATH-102 | Calculus-II | Instructor |
   | MATH-201 | Calculus-III | Instructor |
-  | PHYS-301 | Mathematical Methods of Physics-I | Instructor |
-  | PHYS-302 | Mathematical Methods of Physics-II | Instructor |
+  | PHYS-301 | Mathematical Methods of Physics-I | Dr. Muhammad Younus Nadeem |
+  | PHYS-302 | Mathematical Methods of Physics-II | Dr. Muhammad Younus Nadeem |
 
 ###  Electronics
 
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
-  | PHYS-309 | Analog Electronics-I | Instructor |
-  | PHYS-310 | Analog Electronics-II | Instructor |
+  | PHYS-309 | Analog Electronics-I | Dr. Muhammad Tariq Bhatti |
+  | PHYS-310 | Analog Electronics-II | Dr. Muhammad Tariq Bhatti |
   | PHYS-421 | Digital Electronics-I | 	Dr. Ejaz Ahmad |
   | PHYS-422 | Digital Electronics-II | 	Dr. Ejaz Ahmad |
 
@@ -65,11 +65,11 @@ title: "Courses Studied"
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
-  | PHYS-106 | Physics Laboratory-II | Instructor |
-  | PHYS-203 | Physics Laboratory-Ill | Instructor |
-  | PHYS-210 | Physics Laboratory-IV | Instructor |
-  | PHYS-311 | Laboratory (Spectroscopy & Modern Physics) | Instructor |
-  | PHYS-312 | Laboratory (Analog Electronics) | Dr. Muhammad Tariq Bhatti |
+  | PHYS-106 | Physics Laboratory-II | Fezza Ahmad |
+  | PHYS-203 | Physics Laboratory-Ill | Dr. Muhammad Ismail |
+  | PHYS-210 | Physics Laboratory-IV | Dr. Muhammad Ismail |
+  | PHYS-311 | Laboratory (Spectroscopy and Modern Physics) | Instructor |
+  | PHYS-312 | Laboratory (Analog Electronics) | Dr. Syed Hamad Bukhari |
   | PHYS-423 | Digital Electronics Laboratory | Dr. Muhammad Tariq Bhatti |
   | PHYS-424 | Laboratory/Project | Dr. Muhammad Tariq Bhatti |
   | PHY-500 | Graduate Physics Lab | Dr. Muhammad Faryad |
@@ -83,7 +83,7 @@ title: "Courses Studied"
   | PHYS-402 | Laser | Dr. Misbah-ul-Islam |
   | PHY-516 | Opto-Electronic Devices | Dr. Muhammad Imran Cheema |
   | PHY-416 | Principles of Optics | Dr. Muhammad Imran Cheema |
-  | PHY-5112 | Quantum Chemistry & Spectroscopy | Instructor |
+  | PHY-5112 | Quantum Chemistry and Spectroscopy | Instructor |
 
 ###  Quantum mechanics
 
@@ -100,7 +100,7 @@ title: "Courses Studied"
   | -------- | -------- | -------- |
   | PHYS-403 | Solid State Physics | Instructor |
   | PHYS-404 | Solid State Physics-II | Instructor |
-  | PHYS-306 | Thermal & Statistical Physics | Instructor |
+  | PHYS-306 | Thermal and Statistical Physics | Instructor |
   | PHY-535 | Advanced Condensed Matter Physics | Instructor |
 
 ### Electrodynamics
@@ -117,11 +117,11 @@ title: "Courses Studied"
   | -------- | -------- | -------- |
   | PHYS-101 | Mechanics-I | Instructor |
   | PHYS-102 | Mechanics-II | Instructor |
-  | PHYS-104 | Waves & Oscillations | Instructor |
-  | PHYS-201 | Electricity & Magnetism-I | Instructor |
-  | PHYS-206 | Electricity & Magnetism-II | Instructor |
-  | PHYS-204 | Heat & Thermodynamics | Instructor |
-  | PHYS-208 | Electronics & Modern Physics | Instructor |
+  | PHYS-104 | Waves and Oscillations | Instructor |
+  | PHYS-201 | Electricity and Magnetism-I | Instructor |
+  | PHYS-206 | Electricity and Magnetism-II | Instructor |
+  | PHYS-204 | Heat and Thermodynamics | Instructor |
+  | PHYS-208 | Electronics and Modern Physics | Instructor |
   | PHYS-305 | Classical Mechanics | Instructor |
 
 ###  Chemistry
