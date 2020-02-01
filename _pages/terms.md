@@ -15,9 +15,9 @@ The optical beam passing through the interface of different refractive indices, 
 But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure~\ref{fig:2} and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
 The direction of reflected and transmitted beams can be calculated by using Snell's Law and intensities can be computed via Fresnel coefficients as:
 
-$$ r_p = \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2}, $$
-$$ r_s = \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2}, $$
-$$ t_p = \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2}, $$
+$$ r_p = \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2},\\
+$$ r_s = \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2},\\
+$$ t_p = \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2},\\
 $$ r_s = \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
 
 These coefficients can easily be used on single interface, but for multilayered system, matrix transformation method is more useful.
@@ -64,14 +64,14 @@ To find $r$ or $t$ for any configuration of multilayered system, we only need to
     To find reflection and transmission coefficients, we have
 
 
-$$ R = rr' \quad\text{and}\quad T = tt', $$ 
+$$ R = rr' \quad\text{and}\quad T = tt', $$
 
 where $r'$ and $t'$ are the complex conjugates of $r$ and $t$.
 \section{Algorithm}
 
 We implement the matrix transformation method via MATLAB. Syntax of such function is
 
-        [\theta_\text{incident},R_s,R_p,T_s,T_p]=\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda.]
+$$ \theta_\text{incident},R_s,R_p,T_s,T_p]=\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda. $$
 
 
 Here \textit{MultiLayerFilm} is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
