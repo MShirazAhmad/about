@@ -15,32 +15,36 @@ title: "Courses Studied"
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
-  | Course Code | Description |Instructor |
+  | Course Code | Description |   Instructor    |
   | -------- | -------- | -------- |
   | ENGL-101 | English-I (Functional English) | Momina Zaidi |
   | ENGL-102 | English-II (Communication Skills) | Momina Zaidi |
   | ENGL-201 | English-III (Report Writing) | Momina Zaidi |
 
 ###  Management
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | MNGT-112 | Entrepreneurship | Instructor |
   | MNGT-111 | Human Resource Management | Instructor |
 
 ###  Education
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | EDUC-111 | Teaching & Learning | Instructor |
 
 ###  Computer Sciences
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | COMP-101 | Introduction to Computer & its Applications | Dr. Muhammad Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
 
 ###  Math
-| Course Code | Description |Instructor |
-| -------- | -------- | -------- |
+
+  | Course Code | Description |Instructor |
+  | -------- | -------- | -------- |
   | MATH-101 | Calculus-I | Instructor |
   | MATH-102 | Calculus-II | Instructor |
   | MATH-201 | Calculus-III | Instructor |
@@ -48,6 +52,7 @@ title: "Courses Studied"
   | PHYS-302 | Mathematical Methods of Physics-II | Instructor |
 
 ###  Electronics
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-309 | Analog Electronics-I | Instructor |
@@ -56,6 +61,7 @@ title: "Courses Studied"
   | PHYS-422 | Digital Electronics-II | 	Dr. Ejaz Ahmad |
 
 ###  Experimental Physics
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
@@ -70,6 +76,7 @@ title: "Courses Studied"
   | PHY-602 | Engineering Physics Project Lab | Dr. Muhammad Sabieh Anwar |
 
 ### Photonics
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-308 | Optics | Instructor |
@@ -79,6 +86,7 @@ title: "Courses Studied"
   | PHY-5112 | Quantum Chemistry & Spectroscopy | Instructor |
 
 ###  Quantum mechanics
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-303 | Quantum Mechanics-I | Instructor |
@@ -87,6 +95,7 @@ title: "Courses Studied"
   | PHYS-401 | Nuclear Physics | Mr. Asim Javed |
 
 ### Material Sciences
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-403 | Solid State Physics | Instructor |
@@ -95,6 +104,7 @@ title: "Courses Studied"
   | PHY-535 | Advanced Condensed Matter Physics | Instructor |
 
 ### Electrodynamics
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-405 | Electromagnetic Theory-I | Instructor |
@@ -102,6 +112,7 @@ title: "Courses Studied"
   | PHY-501 | Electrodynamics | Instructor |
 
 ### Foundation Physics
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PHYS-101 | Mechanics-I | Instructor |
@@ -114,6 +125,7 @@ title: "Courses Studied"
   | PHYS-305 | Classical Mechanics | Instructor |
 
 ###  Chemistry
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | CHEM-151 | Inorganic Chemistry | Instructor |
@@ -122,6 +134,7 @@ title: "Courses Studied"
   | CHEM-210 | Analytical Chemistry | Instructor |
 
 ###  Miscellaneous
+
   | Course Code | Description |Instructor |
   | -------- | -------- | -------- |
   | PAKS-101 | Pakistan Studies | Instructor |
