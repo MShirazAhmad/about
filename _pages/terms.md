@@ -15,44 +15,42 @@ The optical beam passing through the interface of different refractive indices, 
 But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure~\ref{fig:2} and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
 The direction of reflected and transmitted beams can be calculated by using Snell's Law and intensities can be computed via Fresnel coefficients as:
 
- \[
-r_p = \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
-r_s = \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2}, \\
-t_p = \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
-r_s = \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}.
-\]
+$$ r_p = \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2}, $$
+$$ r_s = \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2}, $$
+$$ t_p = \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2}, $$
+$$ r_s = \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
 
 These coefficients can easily be used on single interface, but for multilayered system, matrix transformation method is more useful.
 
 Suppose we have a multilayered system having $N$ refractive indices stacked together making $N-1$ interfaces with refractive index $n_j$, impedance $Z_j$, thickness $d_j$ for layer $j$. Also the layer $0$ is semi--infinite with $Z = - \infty$ and layer $N$ is being treated semi--infinite with $Z =  \infty$ and phase change is $\phi_j$.
 
-\mqty(E_{j-1} \\ H_{j-1}) = \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j)\mqty(E_{j} \\ H_{j}) \label{eq:6}
+$$  \mqty(E_{j-1} \\ H_{j-1}) = \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j)\mqty(E_{j} \\ H_{j}) \label{eq:6} $$
 
 
 Eq.~(\ref{eq:6}) relates amplitudes in one layer to the next adjacent layer and therefore repeated application of transfer matrix allows us to propagate waves from one side of the multilayer system to the other using
 
 
-\mqty(E_{1} \\ H_{1}) = \prod_{j=2}^{N-1} \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j)\mqty(E_{N} \\ H_{N}).
+$$ \mqty(E_{1} \\ H_{1}) = \prod_{j=2}^{N-1} \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j)\mqty(E_{N} \\ H_{N}). $$
 
 
 And the characteristic matrix\cite{Multilayer} for the entire system will be
 
 
-M= \mqty(m_{11} & m_{12} \\ m_{21} & m_{22}) = \prod_{j=1}^{N-1} \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j).
+$$  M= \mqty(m_{11} & m_{12} \\ m_{21} & m_{22}) = \prod_{j=1}^{N-1} \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j).$$
 
 
 Here, $Z_j = \sqrt{\frac{\epsilon_0}{\mu_0}}n_j\cos\theta_j$ and by applying the boundary conditions for figure~(\ref{fig:3}), we have
 
 
-Z_0 = \sqrt{\frac{\epsilon_0}{\mu_0}}n_0\cos\theta_i  \quad\text{and}\quad
-Z_N = \sqrt{\frac{\epsilon_0}{\mu_0}}n_N\cos\theta_t.
+$$ Z_0 = \sqrt{\frac{\epsilon_0}{\mu_0}}n_0\cos\theta_i  \quad\text{and}\quad $$
+$$ Z_N = \sqrt{\frac{\epsilon_0}{\mu_0}}n_N\cos\theta_t.$$
 
 
 Consequently,
 
 
-r = \frac{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} - m_{21} - Z_{N}m_{22}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\label{eq:9}\\
-t = \frac{2Z_{1}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\label{eq:10}
+$$ r = \frac{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} - m_{21} - Z_{N}m_{22}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\label{eq:9} $$
+$$ t = \frac{2Z_{1}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\label{eq:10} $$
 
 
 To find $r$ or $t$ for any configuration of multilayered system, we only need to compute the characteristic matrices for each film, multiply them and substitute resulting matrix elements into the Eqs.~(\ref{eq:9}) and~(\ref{eq:10}).
@@ -66,7 +64,7 @@ To find $r$ or $t$ for any configuration of multilayered system, we only need to
     To find reflection and transmission coefficients, we have
 
 
-R = rr' \quad\text{and}\quad T = tt',
+$$ R = rr' \quad\text{and}\quad T = tt', $$ 
 
 where $r'$ and $t'$ are the complex conjugates of $r$ and $t$.
 \section{Algorithm}
