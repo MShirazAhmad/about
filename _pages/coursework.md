@@ -1,7 +1,6 @@
 ---
 permalink: /coursework/
 title: "Courses Studied"
-classes: wide
 ---
 {% include toc %}
 
