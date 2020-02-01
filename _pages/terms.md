@@ -5,32 +5,14 @@
 % false = research / review article
 % (depending on journal).
 
-\ifthenelse{\boolean{shortarticle}}{\colorlet{color2}{color2b}}{\colorlet{color2}{color2}} % Automatically switches colors for short articles
 
-\title{Reflection and Transmission of Light from Multilayer Films: An easy approach, using MATLAB}
+# Reflection and Transmission of Light from Multilayer Films: An easy approach, using MATLAB
 
-\author[1]{M.Shiraz Ahmad\footnote{17120006@lums.edu.pk}}
-\affil[1]{Department of Physics, Syed Babar Ali School of Science and Engineering (SBASSE), Lahore University of Management Sciences (LUMS), Opposite Sector U, D.H.A., Lahore 54792, Pakistan}
-\dates{Compiled \today}
-
-\ociscodes{.}
-
-\doi{\url{http://dx.doi.org/10.1364/ao.XX.XXXXXX}}
-
-\begin{abstract}
 
 	When optical beam hits a multilayered system of different refractive indices, it gets reflected, refracted, and absorbed in a way that can be derived from the Fresnel equations. But, with increasing number of layers, math becomes complicated.  We have designed a MATLAB algorithm underlying the transfer--matrix method for the calculation of the optical properties of multilayered system and have verified it with experimental observations.
 \end{abstract}
 
-\setboolean{displaycopyright}{true}
-
-\begin{document}
-
-	\maketitle
-	\thispagestyle{fancy}
-
-	\ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
-	\section{Introduction}
+## Introduction
 	The optical beam passing through the interface of different refractive indices, changes its direction towards/away normal to the interface, and the changed direction can be calculated mathematically using refractive indices making that interface. To understand this, we can consider an example illustrated in Figure~\ref{fig:1}. Assuming $n_2$ to be sand. If a car enters into a region with higher refractive index at oblique angle, its right front wheel enters into an area of $n_2$ earlier than the left front wheel, hence starts facing lossy force earlier, causing a change in direction towards the normal. Same intuition can help to predict diverted optical path of optical beam.
 	\\
 	But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure~\ref{fig:2} and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
@@ -51,9 +33,6 @@
     	\label{fig:2}
     \end{figure}
     	These coefficients can easily be used on single interface, but for multilayered system, matrix transformation method is more useful.
-\begin{absolutelynopagebreak}
-\subsection[short title]{Matrix Method}
-
 
 	Suppose we have a multilayered system\cite{zangwill_zangwill_2018} having $N$ refractive indices stacked together making $N-1$ interfaces with refractive index $n_j$, impedance $Z_j$, thickness $d_j$ for layer $j$. Also the layer $0$ is semi--infinite with $Z = - \infty$ and layer $N$ is being treated semi--infinite with $Z =  \infty$ and phase change is $\phi_j$.
 
@@ -89,13 +68,10 @@
 
 	$$ 	R = rr' \quad\text{and}\quad T = tt', $$
 	where $r'$ and $t'$ are the complex conjugates of $r$ and $t$.
-\end{absolutelynopagebreak}~
-\section{Algorithm}
+
 
 	We implement the matrix transformation method via MATLAB. Syntax of such function is
-    \begin{align*}
-        [\theta_\text{incident},R_s,R_p,T_s,T_p]=\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda.]
-    \end{align*}
+    $$         \theta_\text{incident},R_s,R_p,T_s,T_p]=\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda. $$
 
 	Here \textit{MultiLayerFilm} is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
 
@@ -132,10 +108,10 @@
 		\label{fig:4}
 	\end{figure}
 ~
-\begin{absolutelynopagebreak}
-\section{Experimental Setup}
+
+## Experimental Setup
 	Experimental setup is shown in Figure~\ref{fig:Schematic diagram}. We used two transparent materials of thickness \SI {1}{\milli\meter}, \SI{2.288}{\milli\meter} having refractive indices $1.47, 1.5007$ (at $\lambda = \SI{1547}{\nano\meter}$ ) with separation of \SI{0.302}{\milli\meter} and placed on a rotating table. Optical power sensor that can be rotated along the table to measure transmitted/reflected beam. Actual setup is shown in Figure~\ref{fig:setup} and measured reflection and transmission coefficients for $\theta_i \text{ from } \ang{1} \text{ to } \ang{90}$ and measured corresponding transmission and reflection power amplitudes, for both $s$ and $p$ polarized optical beams.
-\section{Results and Discussion}
+## Results and Discussion
 	Figure~\ref{fig:6} show results of our experimentally measured transmission/reflection intensities, measured for different incident angles $\theta_i(\ang{0} \rightarrow \ang{90})$. Here lines represent theoretical plots generated by algorithm~(\ref{alg:euclid}) and stars represent experimental measurements which exactly matches to the observations based on MATLAB algorithm.
 	\begin{figure}[H]
 		\centering
@@ -158,28 +134,3 @@
 \end{figure}
 \section{Appendix}
 %\begin{appendices}
-\subsection{MATLAB Functions}
-
-\subsubsection{MultiLayerFilm}
-\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/MultiLayerFilm.m}
-
-\subsubsection{Matrix}
-\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/Matrix.m}
-
-\subsubsection{$R\_T$}
-\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/R_T.m}
-
-\subsubsection{norm2unity}
-\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/norm2unity.m}
-
-\subsubsection{rtplot}
-\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/rtplot.m}
-
-\subsubsection{SnellsLaw}
-\lstinputlisting[style=Matlab-editor,basicstyle=\mlttfamily]{./codes/SnellsLaw.m}
-
-%\end{appendices}
-
-\bibliography{sample.bib}{}
-\bibliographystyle{plain}
-\end{document}
