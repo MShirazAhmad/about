@@ -25,12 +25,12 @@ toc: true
 	r_s &= \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
 
 
-    	\includegraphics[width=6.5cm]{SneilsLaw}
-    	\caption{Car entering into sand (intuition)}
+    	[width=6.5cm]{SneilsLaw}
+    	{Car entering into sand (intuition)}
 
 
-    	\includegraphics[width=6.5cm]{ppol}
-    	\caption{Refraction of optical beam at the interface between two media of different refractive indices}
+    	[width=6.5cm]{ppol}
+    	{Refraction of optical beam at the interface between two media of different refractive indices}
 
 
     	These coefficients can easily be used on single interface, but for multilayered system, matrix transformation method is more useful.
@@ -60,8 +60,8 @@ toc: true
 	To find $r$ or $t$ for any configuration of multilayered system, we only need to compute the characteristic matrices for each film, multiply them and substitute resulting matrix elements into the Eqs.~(\ref{eq:9}) and~(\ref{eq:10}).
 
 
-    		\includegraphics[width=6.5cm]{MultiLayers}
-    		\caption{Propagation of optical beam through a multilayer structure consisting of the materials with different indices of refraction.  }
+    		[width=6.5cm]{MultiLayers}
+    		{Propagation of optical beam through a multilayer structure consisting of the materials with different indices of refraction.  }
     To find reflection and transmission coefficients, we have
 
 	$$ 	R = rr' \quad\text{and}\quad T = tt', $$
@@ -69,22 +69,22 @@ toc: true
 
 
 	We implement the matrix transformation method via MATLAB. Syntax of such function is
-    $$         \theta_\text{incident},R_s,R_p,T_s,T_p]=\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda. $$
+    $$         \theta_\text{incident},R_s,R_p,T_s,T_p]={MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda. $$
 
-	Here \textit{MultiLayerFilm} is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
-
-
-		\caption{$\textit{MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\label{alg:euclid}\\
+	Here {MultiLayerFilm} is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
 
 
-			 $\theta_{i_{1 \rightarrow N}}=\textit{SneilsLaw}(n_{1 \rightarrow N},\theta_i)$
+		{${MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\label{alg:euclid}\\
+
+
+			 $\theta_{i_{1 \rightarrow N}}={SneilsLaw}(n_{1 \rightarrow N},\theta_i)$
 			 $\phi_{2\rightarrow K} = n_{2 \rightarrow K}d_{2 \rightarrow K}\frac{2\pi}{\lambda}$ \Comment{here $K=N-1$}
 			 $Z_s = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}\cos\theta_{1 \rightarrow N}$
-			 $m_s = \textit{Matrix}(\phi_{2 \rightarrow K},Z_s)$
-			 $[R_s,T_s] = \textit{RT}(m_s,Z_{s1},Z_{sN})$
+			 $m_s = {Matrix}(\phi_{2 \rightarrow K},Z_s)$
+			 $[R_s,T_s] = {RT}(m_s,Z_{s1},Z_{sN})$
 			 $Z_p = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}/\cos\theta_{1 \rightarrow N}$
-			 $m_p = \textit{Matrix}(\phi_{2 \rightarrow K},Z_)$
-			 $[R_p,T_p] = \textit{RT}(m_p,Z_{p1},Z_{pN})$
+			 $m_p = {Matrix}(\phi_{2 \rightarrow K},Z_)$
+			 $[R_p,T_p] = {RT}(m_p,Z_{p1},Z_{pN})$
 
 
 
@@ -94,8 +94,8 @@ toc: true
 	This generate arrays \texttt{Incident, RS, RP, TS, TP} corresponding to $\theta_\text{incident}, R_s, R_p, T_s, T_p$, as shown in figure~\ref{fig:4}
 
 
-		\includegraphics[scale=1.0]{MatlabWorkSpace.png}
-		\caption{Workspace of MATLAB showing output values of function \textit{MultiLayerFilm}.}
+		[scale=1.0]{MatlabWorkSpace.png}
+		{Workspace of MATLAB showing output values of function {MultiLayerFilm}.}
 
 ## Experimental Setup
 	Experimental setup is shown in Figure~\ref{fig:Schematic diagram}. We used two transparent materials of thickness \SI {1}{\milli\meter}, \SI{2.288}{\milli\meter} having refractive indices $1.47, 1.5007$ (at $\lambda = \SI{1547}{\nano\meter}$ ) with separation of \SI{0.302}{\milli\meter} and placed on a rotating table. Optical power sensor that can be rotated along the table to measure transmitted/reflected beam. Actual setup is shown in Figure~\ref{fig:setup} and measured reflection and transmission coefficients for $\theta_i \text{ from } \ang{1} \text{ to } \ang{90}$ and measured corresponding transmission and reflection power amplitudes, for both $s$ and $p$ polarized optical beams.
