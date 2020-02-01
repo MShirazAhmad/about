@@ -2,6 +2,7 @@
 title: "Physplot - Data Analysis and Graphing Software"
 excerpt: "Python Libraries Used: NumPy, SciPy, Matplotlib, Pandas, PyQt<br/><img src='/images/physplot.png'>"
 header:
+  teaser: assets/images/unsplash-gallery-image-1-th.jpg
   video:
     id: vDAXzjMWDyg
     provider: youtube
