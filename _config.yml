@@ -266,6 +266,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  algorithms:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -307,6 +310,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _algorithms
+    - scope:
+      path: ""
+      type: algorithms
     values:
       layout: single
       author_profile: true
