@@ -13,10 +13,10 @@ The optical beam passing through the interface of different refractive indices, 
 
 But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
 The direction of reflected and transmitted beams can be calculated by using Snell's Law and intensities can be computed via Fresnel coefficients as:
-$$r_p &= \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
-r_s &= \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2}, \\
-t_p &= \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
-r_s &= \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
+$$r_p = \frac{n_2\cos\theta_1-n_1\cos\theta_2}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
+r_s = \frac{n_1\cos\theta_1-n_2\cos\theta_2}{n_1\cos\theta_1+n_2\cos\theta_2}, \\
+t_p = \frac{2 n_1\cos\theta_1}{n_2\cos\theta_1+n_1\cos\theta_2}, \\
+r_s = \frac{2 n_1\cos\theta_1}{n_1\cos\theta_1+n_2\cos\theta_2}. $$
 
 
 width=6.5cmSneilsLaw
@@ -51,8 +51,8 @@ Z_N = \sqrt{\frac{\epsilon_0}{\mu_0}}n_N\cos\theta_t. $$
 
 Consequently,
 
-$$r &= \frac{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} - m_{21} - Z_{N}m_{22}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\\
-t &= \frac{2Z_{1}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}$$
+$$r = \frac{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} - m_{21} - Z_{N}m_{22}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\\
+t = \frac{2Z_{1}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}$$
 
 To find $r$ or $t$ for any configuration of multilayered system, we only need to compute the characteristic matrices for each film, multiply them and substitute resulting matrix elements into the Eqs.) and.
 
