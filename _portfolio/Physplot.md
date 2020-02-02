@@ -2,7 +2,7 @@
 title: "Physplot"
 classes: wide
 excerpt: "Data/Error Analysis Software"
-teaser: assets/images/physplot.png
+image: assets/images/physplot.png
 header:
   video:
     id: vDAXzjMWDyg
