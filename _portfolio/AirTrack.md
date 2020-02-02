@@ -1,7 +1,21 @@
 ---
-title: "Air Track Analyzer - Data/Error Analysis Software"
-excerpt: "Python Libraries Used: NumPy, SciPy, Matplotlib, Pandas, PyQt <br/><img src='/images/airtrack.png'>"
+title: "Air Track Analyzer - "
+excerpt: "Data/Error Analysis Software"
+teaser: assets/images/airtrack.png
 collection: portfolio
+
+feature_row:
+  - image_path: assets/images/physlab.png
+    excerpt: "**PhysLab**"
+    link: "https://www.physlab.org/experiment/experiments-with-a-linear-air-track/"
+    
+  - image_path: /assets/images/Qosain.jpg
+    excerpt: "**Qosain Scientific**"
+    link: "https://www.qosain.pk/physics/lab-experiments/air-track-6-feet-with-photogates-and-physlogger-2"
 ---
 
-I wrote matlab scripts, and later designed python-based software to automate the data and uncertainty analysis of raw data received from the experiment. For details, please visit: [https://www.physlab.org/experiment/experiments-with-a-linear-air-track/](https://www.physlab.org/experiment/experiments-with-a-linear-air-track/)
+I wrote matlab scripts, and later designed python-based software to automate the data and uncertainty analysis of raw data received from the experiment.
+
+
+This software is developed under the following platforms:
+{% include feature_row %}
