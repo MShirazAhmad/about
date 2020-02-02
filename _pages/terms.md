@@ -47,8 +47,8 @@ Eq. relates amplitudes in one layer to the next adjacent layer and therefore rep
 
 And the characteristic matrix\cite{Multilayer} for the entire system will be
 
-\\[ M= \begin{bmatrix} m_{11} & m_{12} \\\\ m_{21} & m_{22}\end{bmatrix} \\]
-\\[ = \prod_{j=1}^{N-1} \begin{bmatrix} \cos \phi_j & i\sin \phi_j / Z_j \\\\ Z_j i\sin \phi_j & \sin \phi_j \end{bmatrix}. \\]
+\\[ \begin{align} M &= \begin{bmatrix} m_{11} & m_{12} \\\\ m_{21} & m_{22}\end{bmatrix} \\\\
+  &= \prod_{j=1}^{N-1} \begin{bmatrix} \cos \phi_j & i\sin \phi_j / Z_j \\\\ Z_j i\sin \phi_j & \sin \phi_j \end{bmatrix}.\end{align} \\]
 
 Here, $Z_j = \sqrt{\frac{\epsilon_0}{\mu_0}}n_j\cos\theta_j$ and by applying the boundary conditions for figure, we have
 
@@ -63,8 +63,11 @@ t = \frac{2Z_{1}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\\]
 To find $r$ or $t$ for any configuration of multilayered system, we only need to compute the characteristic matrices for each film, multiply them and substitute resulting matrix elements into the Eqs.) and.
 
 
-width=6.5cm MultiLayers
-Propagation of optical beam through a multilayer structure consisting of the materials with different indices of refraction.
+<figure class="half">
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="/assets/images/multilayer/MultiLayers.png"></a>
+    <figcaption>Propagation of optical beam through a multilayer structure consisting of the materials with different indices of refraction.</figcaption>
+</figure>
+
 To find reflection and transmission coefficients, we have
 
 \\[ R = rr' \quad\text{and}\quad T = tt', \\]
@@ -80,7 +83,8 @@ Here MultiLayerFilm is the MATLAB function whose algorithm is shown in algorithm
 {${MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\\
 
 
-\\[\theta_{i_{1 \rightarrow N}}={SneilsLaw}(n_{1 \rightarrow N},\theta_i)\\]
+\\[
+\beg\theta_{i_{1 \rightarrow N}}={SneilsLaw}(n_{1 \rightarrow N},\theta_i)\\]
 \\[\phi_{2\rightarrow K} = n_{2 \rightarrow K}d_{2 \rightarrow K}\frac{2\pi}{\lambda}\\]
 \\[Z_s = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}\cos\theta_{1 \rightarrow N}\\]
 \\[m_s = {Matrix}(\phi_{2 \rightarrow K},Z_s)\\]
