@@ -317,7 +317,7 @@ defaults:
       comment: true
   # _algorithms
     - scope:
-      path: ""
+      path: "_algorithms"
       type: algorithms
     values:
       layout: single
