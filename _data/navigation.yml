@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /
+  - title: "Algorithms"
+    url: /algorithms/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Coursework"
