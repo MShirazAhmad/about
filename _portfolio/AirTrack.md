@@ -1,7 +1,7 @@
 ---
 title: "Air Track Analyzer - "
 excerpt: "Data/Error Analysis Software"
-teaser: assets/images/airtrack.png
+image: assets/images/airtrack.png
 collection: portfolio
 
 feature_row:
