@@ -10,7 +10,7 @@ header:
 collection: portfolio
 
 feature_row:
-  - image_path: assets/images/physlab.jpg
+  - image_path: assets/images/physlab.png
     alt: "placeholder image 1"
     title: "PhysLab"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
