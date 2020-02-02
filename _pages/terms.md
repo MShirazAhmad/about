@@ -12,9 +12,9 @@ When optical beam hits a multilayered system of different refractive indices, it
 The optical beam passing through the interface of different refractive indices, changes its direction towards/away normal to the interface, and the changed direction can be calculated mathematically using refractive indices making that interface. To understand this, we can consider an example illustrated in Figure. Assuming $n_2$ to be sand. If a car enters into a region with higher refractive index at oblique angle, its right front wheel enters into an area of $n_2$ earlier than the left front wheel, hence starts facing lossy force earlier, causing a change in direction towards the normal. Same intuition can help to predict diverted optical path of optical beam.
 
 <figure class="half">
-    <a href="/assets/images/multilayer/SneilsLaw.png"><img src="/assets/images/multilayer/SneilsLaw.png"></a>
-    <a href="/assets/images/multilayer/ppol.png"><img src="/assets/images/multilayer/ppol.png"></a>
-    <figcaption>Caption describing these two images.</figcaption>
+<a href="/assets/images/multilayer/SneilsLaw.png"><img src="/assets/images/multilayer/SneilsLaw.png"></a>
+<a href="/assets/images/multilayer/ppol.png"><img src="/assets/images/multilayer/ppol.png"></a>
+<figcaption>(Left) Car entering into sand (intuition), (Right) Refraction of optical beam at the interface between two media of different refractive indices. </figcaption>
 </figure>
 
 But if a linearly polarized light faces an interface of higher refractive index it gets refracted and reflected. The direction of beam propagation ($\vec {k}$) is shown in figure and sinusoidal waves shows that the oscillation of electric field is perpendicular to the direction of wave propagation. Optical beam is characterized as $p$--polarized, if electric field oscillations are perpendicular to the plane formed by incident, reflected and transmitted beam, and $p$ if oscillations are in the same plane.
