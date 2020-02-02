@@ -48,7 +48,7 @@ These coefficients can easily be used on single interface, but for multilayered 
 
 	Consequently,
 
-	$$ 	r &= \frac{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} - m_{21} - Z_{N}m_{22}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\label{eq:9}\\
+	$$ 	r &= \frac{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} - m_{21} - Z_{N}m_{22}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}\\
 	t &= \frac{2Z_{1}}{Z_{1} m_{11} + Z_{1} Z_{N} m_{12} + m_{21} + Z_{N}m_{22}}$$
 
 	To find $r$ or $t$ for any configuration of multilayered system, we only need to compute the characteristic matrices for each film, multiply them and substitute resulting matrix elements into the Eqs.) and.
@@ -68,7 +68,7 @@ These coefficients can easily be used on single interface, but for multilayered 
 	Here MultiLayerFilm is the MATLAB function whose algorithm is shown in algorithm~(1), $n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_\text{incident},\lambda$ are input arguments and function gives output values.
 
 
-{${MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\label{alg:euclid}\\
+{${MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\\
 
 
 $\theta_{i_{1 \rightarrow N}}={SneilsLaw}(n_{1 \rightarrow N},\theta_i)$
