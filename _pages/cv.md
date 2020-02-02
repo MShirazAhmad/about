@@ -25,7 +25,7 @@ redirect_from:
 <br><i>Jun 2019 – Aug 2019</i>
 <br>-Scientific Software (Graphical User Interface):
 <br>   - <a href="https://shiraz-ahmad.com/portfolio/Physplot/">PhysPlot </a> (Data Analysis and Graphing)
-<br>   - <a href="https://www.physlab.org/experiment/experiments-with-a-linear-air-track/">Air Track Analyzer </a> (Numerical Analysis of the Experiment: Linear Air Track)</p>
+<br>   - <a href="https://shiraz-ahmad.com/portfolio/AirTrack/">Air Track Analyzer </a> (Numerical Analysis of the Experiment: Linear Air Track)</p>
 
 
 #  Research Experience
@@ -46,8 +46,9 @@ redirect_from:
 <br> -Project Title: Equipping the Physics laboratory at NUTECH</p>
 
 
+
 <p style="margin-left: 40px"><b>Chairperson & Founder</b>
-<br> [Tuition Hub](http://tuitionhub.pk/), Lahore, Pakistan
+<br> <a href="http://tuitionhub.pk/">Tuition Hub</a>, Lahore, Pakistan
 <br><i>2018 – Present</i>
 <br>- Registered tutors: 1000+
 <br>- Students served: 100+</p>
