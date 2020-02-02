@@ -5,7 +5,6 @@ excerpt: "Data/Error Analysis Software"
 collection: portfolio
 header:
   image: assets/images/airtrack.png
-  teaser: assets/images/airtrack.png
 feature_row:
   - image_path: assets/images/physlab.png
     excerpt: "**PhysLab**"
