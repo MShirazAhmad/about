@@ -1,5 +1,5 @@
 ---
-title: "Ferromagnetic Resonance"
+title: "Air Track Analyzer"
 categories:
   - Edge Case
 tags:

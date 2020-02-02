@@ -1,5 +1,5 @@
 ---
-title: "Ferromagnetic Resonance"
+title: "Newton's cradle observed by video tracking"
 categories:
   - Edge Case
 tags:

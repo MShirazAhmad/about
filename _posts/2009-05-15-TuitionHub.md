@@ -1,5 +1,5 @@
 ---
-title: "Ferromagnetic Resonance"
+title: "Tuition Hub"
 categories:
   - Edge Case
 tags:

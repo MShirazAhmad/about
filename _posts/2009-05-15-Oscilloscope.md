@@ -1,5 +1,5 @@
 ---
-title: "Ferromagnetic Resonance"
+title: "Arduino based oscilloscope for Physlab"
 categories:
   - Edge Case
 tags:
