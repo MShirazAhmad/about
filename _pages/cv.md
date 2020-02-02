@@ -24,8 +24,8 @@ redirect_from:
 <br>Qosain Scientific and PhysLab, Lahore, Pakistan
 <br><i>Jun 2019 – Aug 2019</i>
 <br>-Scientific Software (Graphical User Interface):
-<br>:   - <a href="https://shiraz-ahmad.com/portfolio/Physplot/">PhysPlot </a> (Data Analysis and Graphing)
-<br>:   - <a href="https://www.physlab.org/experiment/experiments-with-a-linear-air-track/">Air Track Analyzer </a> (Numerical Analysis of the Experiment: Linear Air Track)
+<br>   - <a href="https://shiraz-ahmad.com/portfolio/Physplot/">PhysPlot </a> (Data Analysis and Graphing)
+<br>   - <a href="https://www.physlab.org/experiment/experiments-with-a-linear-air-track/">Air Track Analyzer </a> (Numerical Analysis of the Experiment: Linear Air Track)</p>
 
 
 #  Research Experience
@@ -33,24 +33,24 @@ redirect_from:
 <p style="margin-left: 40px"><b>Research Assistant</b>
 <br>Lahore University of Management Sciences, Lahore, Pakistan
 <br><i>Dec 2019 – Present</i>
-<br>  -Project Title: Ferromagnetic Resonance
+<br>  -Project Title: Ferromagnetic Resonance</p>
 
 <p style="margin-left: 40px"><b>Supervision of Research Internee in Graduate Physics Lab</b>
 <br>Lahore University of Management Sciences, Lahore, Pakistan
 <br><i>Jul 2019 – Aug 2019</i>
-<br> -Project Title: Experimental Analysis of Superconductivity and Quantum Interference
+<br> -Project Title: Experimental Analysis of Superconductivity and Quantum Interference</p>
 
 <p style="margin-left: 40px"><b>Research Assistant</b>
 <br>Lahore University of Management Sciences, Lahore, Pakistan
 <br><i>Jun 2019 – Jul 2019</i>
-<br> -Project Title: Equipping the Physics laboratory at NUTECH
+<br> -Project Title: Equipping the Physics laboratory at NUTECH</p>
 
 
 <p style="margin-left: 40px"><b>Chairperson & Founder</b>
 <br> [Tuition Hub](http://tuitionhub.pk/), Lahore, Pakistan
 <br><i>2018 – Present</i>
 <br>- Registered tutors: 1000+
-<br>- Students served: 100+
+<br>- Students served: 100+</p>
 
 #  Teaching Experiance
 
