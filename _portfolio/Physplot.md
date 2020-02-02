@@ -25,3 +25,7 @@ PhysPlot is a scientific plotting software with a graphical user interface, desi
 
 This software is developed under the following platforms:
 {% include feature_row %}
+
+
+If you are a programmer and have any ideas, wishes, etc., you are welcomed to fork the repository and submit a pull request.
+[Github Link](https://github.com/MShirazAhmad/PhysPlot){: .btn .btn--success}
