@@ -316,11 +316,10 @@ defaults:
       share: true
       comment: true
   # _algorithms
-    - scope:
+  - scope:
       path: ""
       type: algorithms
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
