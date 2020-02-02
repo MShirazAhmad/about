@@ -1,5 +1,6 @@
 ---
 title: "Physplot"
+classes: wide
 excerpt: "Data/Error Analysis Software"
 header:
   teaser: assets/images/physplot.png
