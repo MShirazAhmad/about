@@ -10,8 +10,6 @@ redirect_from:
 
 #  Education
 
-[Subjects Studied](https://shiraz-ahmad.com/coursework/)
-
 <p style="margin-left: 40px"><b>Master of Science (MS), Physics</b>
 <br>Lahore University of Management Sciences, Lahore, Pakistan
 <br><i>Sep 2017 – Jun 2019</i></p>
@@ -26,8 +24,8 @@ redirect_from:
 <br>Qosain Scientific and PhysLab, Lahore, Pakistan
 <br><i>Jun 2019 – Aug 2019</i>
 <br>-Scientific Software (Graphical User Interface):
-<br>:   -[PhysPlot](https://shiraz-ahmad.com/portfolio/Physplot/) (Data Analysis and Graphing)
-<br>:   -Air Track Analyzer (Numerical Analysis of the Experiment: Linear Air Track)
+<br>:   - <a href="https://shiraz-ahmad.com/portfolio/Physplot/">PhysPlot </a> (Data Analysis and Graphing)
+<br>:   - <a href="https://www.physlab.org/experiment/experiments-with-a-linear-air-track/">Air Track Analyzer </a> (Numerical Analysis of the Experiment: Linear Air Track)
 
 
 #  Research Experience
