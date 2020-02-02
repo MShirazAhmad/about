@@ -1,6 +1,6 @@
 ---
 title: "Useful Matlab Functions"
-excerpt: "Post displaying the various ways of highlighting code in Markdown."
+excerpt: "Simple but mostly used in physics laboratory."
 header:
   teaser: "assets/images/matlab.png"
 tags: 
