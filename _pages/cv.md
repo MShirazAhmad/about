@@ -26,8 +26,8 @@ redirect_from:
 <br>Qosain Scientific and PhysLab, Lahore, Pakistan
 <br><i>Jun 2019 – Aug 2019</i>
 <br>-Scientific Software (Graphical User Interface):
-:   -[PhysPlot](https://shiraz-ahmad.com/portfolio/Physplot/) (Data Analysis and Graphing)
-:   -Air Track Analyzer (Numerical Analysis of the Experiment: Linear Air Track)
+<br>:   -[PhysPlot](https://shiraz-ahmad.com/portfolio/Physplot/) (Data Analysis and Graphing)
+<br>:   -Air Track Analyzer (Numerical Analysis of the Experiment: Linear Air Track)
 
 
 #  Research Experience
