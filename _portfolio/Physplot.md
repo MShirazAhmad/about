@@ -5,8 +5,8 @@ excerpt: "Data/Error Analysis Software"
 
 
 header:
-  image: assets/images/physplot.png
   teaser: assets/images/physplot.png
+  image: assets/images/physplot.png
   video:
     id: vDAXzjMWDyg
     provider: youtube
