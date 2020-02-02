@@ -54,6 +54,8 @@ title: "BS/MS Coursework"
 
 ###  Experimental Physics
 
+<a href=/coursework/experiments>List of Experiments Performed</a>
+
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
   | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
