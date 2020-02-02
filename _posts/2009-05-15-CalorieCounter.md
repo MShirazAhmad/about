@@ -1,7 +1,7 @@
 ---
 title: "Calorie Counter - A Python Software to Track Diet and Weight"
 categories:
-  - Edge Case
+  - Project
 tags:
   - content
   - css

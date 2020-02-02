@@ -1,7 +1,7 @@
 ---
 title: "Air Track Analyzer"
 categories:
-  - Edge Case
+  - Project
 tags:
   - content
   - css

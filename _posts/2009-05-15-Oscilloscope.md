@@ -1,7 +1,7 @@
 ---
 title: "Arduino based oscilloscope for Physlab"
 categories:
-  - Edge Case
+  - Project
 tags:
   - content
   - css

@@ -1,7 +1,7 @@
 ---
 title: "Tuition Hub"
 categories:
-  - Edge Case
+  - Project
 tags:
   - content
   - css

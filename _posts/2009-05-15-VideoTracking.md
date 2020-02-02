@@ -1,7 +1,7 @@
 ---
 title: "Newton's cradle observed by video tracking"
 categories:
-  - Edge Case
+  - Project
 tags:
   - content
   - css
