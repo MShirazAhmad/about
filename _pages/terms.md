@@ -74,14 +74,14 @@ Here MultiLayerFilm is the MATLAB function whose algorithm is shown in algorithm
 {${MultiLayerFilm}(n_{1 \rightarrow N},d_{2 \rightarrow K},\theta_{Incident},Lambda)$\\
 
 
-$\theta_{i_{1 \rightarrow N}}={SneilsLaw}(n_{1 \rightarrow N},\theta_i)$
-$\phi_{2\rightarrow K} = n_{2 \rightarrow K}d_{2 \rightarrow K}\frac{2\pi}{\lambda}$
-$Z_s = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}\cos\theta_{1 \rightarrow N}$
-$m_s = {Matrix}(\phi_{2 \rightarrow K},Z_s)$
-$[R_s,T_s] = {RT}(m_s,Z_{s1},Z_{sN})$
-$Z_p = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}/\cos\theta_{1 \rightarrow N}$
-$m_p = {Matrix}(\phi_{2 \rightarrow K},Z_)$
-$[R_p,T_p] = {RT}(m_p,Z_{p1},Z_{pN})$
+\[\theta_{i_{1 \rightarrow N}}={SneilsLaw}(n_{1 \rightarrow N},\theta_i)\]
+\[\phi_{2\rightarrow K} = n_{2 \rightarrow K}d_{2 \rightarrow K}\frac{2\pi}{\lambda}\]
+\[Z_s = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}\cos\theta_{1 \rightarrow N}\]
+\[m_s = {Matrix}(\phi_{2 \rightarrow K},Z_s)\]
+\[[R_s,T_s] = {RT}(m_s,Z_{s1},Z_{sN})\]
+\[Z_p = \sqrt{\frac{\epsilon_0}{\mu_0}}n_{1 \rightarrow N}/\cos\theta_{1 \rightarrow N}\]
+\[m_p = {Matrix}(\phi_{2 \rightarrow K},Z_)\]
+\[[R_p,T_p] = {RT}(m_p,Z_{p1},Z_{pN})\]
 
 
 
