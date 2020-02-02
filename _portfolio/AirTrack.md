@@ -7,11 +7,11 @@ collection: portfolio
 feature_row:
   - image_path: assets/images/physlab.png
     excerpt: "**PhysLab**"
-    link: "https://www.physlab.org/experiment/experiments-with-a-linear-air-track/"
+    url: "https://www.physlab.org/experiment/experiments-with-a-linear-air-track/"
     
   - image_path: /assets/images/Qosain.jpg
     excerpt: "**Qosain Scientific**"
-    link: "https://www.qosain.pk/physics/lab-experiments/air-track-6-feet-with-photogates-and-physlogger-2"
+    url: "https://www.qosain.pk/physics/lab-experiments/air-track-6-feet-with-photogates-and-physlogger-2"
 ---
 
 I wrote matlab scripts, and later designed python-based software to automate the data and uncertainty analysis of raw data received from the experiment.
