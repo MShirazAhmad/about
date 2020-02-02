@@ -13,6 +13,8 @@ feature_row:
   - image_path: assets/images/physlab.png
     excerpt: "**PhysLab**"
     url: https://www.physlab.org/physplot/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/Qosain.jpg
     excerpt: "**Qosain Scientific**"
 ---
