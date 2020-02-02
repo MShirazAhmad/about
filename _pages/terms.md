@@ -31,15 +31,15 @@ These coefficients can easily be used on single interface, but for multilayered 
 
 	Suppose we have a multilayered system having $N$ refractive indices stacked together making $N-1$ interfaces with refractive index $n_j$, impedance $Z_j$, thickness $d_j$ for layer $j$. Also the layer $0$ is semi--infinite with $Z = - \infty$ and layer $N$ is being treated semi--infinite with $Z =  \infty$ and phase change is $\phi_j$.
 
-	$$ 	\mqty(E_{j-1} \\ H_{j-1}) &= \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j)\mqty(E_{j} \\ H_{j}) $$
+	$$ 	\begin{bmatrix} E_{j-1} \\ H_{j-1}\end{bmatrix}  &= \begin{bmatrix} \cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j\end{bmatrix} \begin{bmatrix} E_{j} \\ H_{j}\end{bmatrix} $$
 
 	Eq. relates amplitudes in one layer to the next adjacent layer and therefore repeated application of transfer matrix allows us to propagate waves from one side of the multilayer system to the other using
 
-	$$ 	\mqty(E_{1} \\ H_{1}) &= \prod_{j=2}^{N-1} \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j)\mqty(E_{N} \\ H_{N}). $$
+	$$ 	\begin{bmatrix} E_{1} \\ H_{1}\end{bmatrix} &= \prod_{j=2}^{N-1} \begin{bmatrix} \cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j\end{bmatrix} \begin{bmatrix} E_{N} \\ H_{N}\end{bmatrix}. $$
 
 	And the characteristic matrix\cite{Multilayer} for the entire system will be
 
-	$$ 	M= \mqty(m_{11} & m_{12} \\ m_{21} & m_{22}) &= \prod_{j=1}^{N-1} \mqty(\cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j). $$
+	$$ 	M= \begin{bmatrix} m_{11} & m_{12} \\ m_{21} & m_{22}\end{bmatrix} &= \prod_{j=1}^{N-1} \begin{bmatrix} \cos \phi_j & i\sin \phi_j / Z_j \\ Z_j i\sin \phi_j & \sin \phi_j \end{bmatrix}. $$
 
 	Here, $Z_j = \sqrt{\frac{\epsilon_0}{\mu_0}}n_j\cos\theta_j$ and by applying the boundary conditions for figure, we have
 
