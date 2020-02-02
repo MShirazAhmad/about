@@ -12,7 +12,7 @@ collection: portfolio
 feature_row:
   - image_path: assets/images/physlab.png
     excerpt: "**PhysLab**"
-    
+    url: https://www.physlab.org/physplot/
   - image_path: /assets/images/Qosain.jpg
     excerpt: "**Qosain Scientific**"
 ---
@@ -21,5 +21,3 @@ PhysPlot is a scientific plotting software with a graphical user interface, desi
 
 This software is developed under the following platforms:
 {% include feature_row %}
-
-[Read More](https://www.physlab.org/physplot/){: .btn .btn--primary}
