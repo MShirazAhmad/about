@@ -1,12 +1,10 @@
 ---
 permalink: /coursework/
-title: "Courses Studied"
+title: "BS/MS Coursework"
 ---
 {% include toc %}
 
 
-
-## BS/MS Coursework
 ###  English
 
   | Course Code | Description |   Instructor    |
