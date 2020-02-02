@@ -1,9 +1,11 @@
 ---
 title: "Air Track Analyzer"
 excerpt: "Data/Error Analysis Software"
-image: assets/images/airtrack.png
-collection: portfolio
 
+collection: portfolio
+header:
+  image: assets/images/airtrack.png
+  teaser: assets/images/airtrack.png
 feature_row:
   - image_path: assets/images/physlab.png
     excerpt: "**PhysLab**"
