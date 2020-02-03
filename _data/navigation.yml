@@ -8,7 +8,7 @@ main:
     url: /portfolio/
   - title: "Coursework"
     url: /coursework/
-  - title: "cv"
+  - title: "Resume"
     url: /cv/
 
 # sidebar navigation list sample
