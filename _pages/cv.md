@@ -18,6 +18,21 @@ redirect_from:
 <br>Bahauddin Zakariya University, Multan, Pakistan
 <br><i>Oct 2013 – Jun 2017</i></p>
 
+# Entrepreneur Experience
+
+<p style="margin-left: 40px"><b>Co-founder</b>
+<br> <a href="http://tuitionhub.pk/">Question Bank - Automation (Development Stage)</a>, Lahore, Pakistan
+<br><i>Jan 2020 – Present</i>
+<br><i>Co-founders:</i>
+<br>- Muhammad Shiraz Ahmad (Current Role: Development)
+<br>- Ahsan Javed (Current Role: Dealing with the Education Sector)</p>
+
+<p style="margin-left: 40px"><b>Chairperson & Founder</b>
+<br> <a href="http://tuitionhub.pk/">Tuition Hub</a>, Lahore, Pakistan
+<br><i>2018 – Present</i>
+<br>- Registered tutors: 1000+
+<br>- Students served: 100+</p>
+
 #  Programming Experience
 
 <p style="margin-left: 40px"><b>Python Developer Intern</b>
@@ -45,15 +60,7 @@ redirect_from:
 <br><i>Jun 2019 – Jul 2019</i>
 <br> -Project Title: Equipping the Physics laboratory at NUTECH</p>
 
-
-
-<p style="margin-left: 40px"><b>Chairperson & Founder</b>
-<br> <a href="http://tuitionhub.pk/">Tuition Hub</a>, Lahore, Pakistan
-<br><i>2018 – Present</i>
-<br>- Registered tutors: 1000+
-<br>- Students served: 100+</p>
-
-#  Teaching Experiance
+#  Teaching Experience
 
 <p style="margin-left: 40px"><b>Lab Teaching Assistant</b>
 <br>Lahore University of Management Sciences, Lahore, Pakistan
