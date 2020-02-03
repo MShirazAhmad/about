@@ -17,8 +17,8 @@ title: "BS/MS Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | MNGT-112 | Entrepreneurship | Instructor |
-  | MNGT-111 | Human Resource Management | Instructor |
+  | MNGT-112 | Entrepreneurship | Dr. Naveed Shareef |
+  | MNGT-111 | Human Resource Management | Dr. Naveed Shareef |
 
 ###  Education
 
@@ -101,36 +101,36 @@ title: "BS/MS Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | PHYS-405 | Electromagnetic Theory-I | Instructor |
-  | PHYS-406 | Electromagnetic Theory-II | Instructor |
-  | PHY-501 | Electrodynamics | Instructor |
+  | PHYS-405 | Electromagnetic Theory-I | Dr. Zakariya Arif |
+  | PHYS-406 | Electromagnetic Theory-II | Dr. Zakariya Arif |
+  | PHY-501 | Electrodynamics | Dr. Muhammad Faryad |
 
 ### Foundation Physics
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | PHYS-101 | Mechanics-I | Instructor |
-  | PHYS-102 | Mechanics-II | Instructor |
-  | PHYS-104 | Waves and Oscillations | Instructor |
-  | PHYS-201 | Electricity and Magnetism-I | Instructor |
-  | PHYS-206 | Electricity and Magnetism-II | Instructor |
-  | PHYS-204 | Heat and Thermodynamics | Instructor |
-  | PHYS-208 | Electronics and Modern Physics | Instructor |
-  | PHYS-305 | Classical Mechanics | Instructor |
+  | PHYS-101 | Mechanics-I | Ms. Mudassira |
+  | PHYS-102 | Mechanics-II | Ms. Mudassira |
+  | PHYS-104 | Waves and Oscillations | Dr. Niaz Ahmed |
+  | PHYS-201 | Electricity and Magnetism-I | Dr. Zakariya Arif |
+  | PHYS-206 | Electricity and Magnetism-II | Dr. Fayyaz Hussain |
+  | PHYS-204 | Heat and Thermodynamics | Dr. Niaz Ahmed |
+  | PHYS-208 | Electronics and Modern Physics | Dr. Ishfaq |
+  | PHYS-305 | Classical Mechanics | Dr. Anwar Manzoor |
 
 ###  Chemistry
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | CHEM-151 | Inorganic Chemistry | Instructor |
-  | CHEM-160 | Organic Chemistry | Instructor |
-  | CHEM-271 | Physical Chemistry | Instructor |
-  | CHEM-210 | Analytical Chemistry | Instructor |
+  | CHEM-151 | Inorganic Chemistry | Dr. Arif |
+  | CHEM-160 | Organic Chemistry | Dr. Ishfaq |
+  | CHEM-271 | Physical Chemistry | ........ |
+  | CHEM-210 | Analytical Chemistry | Mr. Salman |
 
 ###  Miscellaneous
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
   | PAKS-101 | Pakistan Studies | Instructor |
-  | ISLS-101 | Islamic Studies | Instructor |
-  | ARAB-101 | Arabic | Instructor |
+  | ISLS-101 | Islamic Studies | Dr. Idrees Lodhi |
+  | ARAB-101 | Arabic | Dr. Abdurraheem |
