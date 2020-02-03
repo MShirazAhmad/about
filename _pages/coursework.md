@@ -9,9 +9,9 @@ title: "BS/MS Coursework"
 
   | Course Code | Description |   Instructor    |
   | ----------- | ---------------------------------------- | ---------------- |
-  | ENGL-101 | English-I (Functional English) | Momina Zaidi |
-  | ENGL-102 | English-II (Communication Skills) | Momina Zaidi |
-  | ENGL-201 | English-III (Report Writing) | Momina Zaidi |
+  | ENGL-101 | English-I (Functional English) | Ms. Momina Zaidi |
+  | ENGL-102 | English-II (Communication Skills) | Ms. Momina Zaidi |
+  | ENGL-201 | English-III (Report Writing) | Ms. Momina Zaidi |
 
 ###  Management
 
@@ -24,7 +24,7 @@ title: "BS/MS Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | EDUC-111 | Teaching and Learning | Instructor |
+  | EDUC-111 | Teaching and Learning | Ms. Munawar Zahra |
 
 ###  Computer Sciences
 
@@ -77,15 +77,15 @@ title: "BS/MS Coursework"
   | PHYS-402 | Laser | Dr. Misbah-ul-Islam |
   | PHY-516 | Opto-Electronic Devices | Dr. M. Imran Cheema |
   | PHY-416 | Principles of Optics | Dr. M. Imran Cheema |
-  | PHY-5112 | Quantum Chemistry and Spectroscopy | Instructor |
+  | PHY-5112 | Quantum Chemistry and Spectroscopy | Dr. Habib-ur- Rehman |
 
 ###  Quantum mechanics
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
   | PHYS-303 | Quantum Mechanics-I | Dr. Javed Ahmad |
-  | PHYS-304 | Quantum Mechanics-II | Instructor |
-  | PHY-517 | Quantum Mechanics III | Instructor |
+  | PHYS-304 | Quantum Mechanics-II | Dr. S. Hamad Bukhari |
+  | PHY-517 | Quantum Mechanics III | Dr. Maqbool Ahmad |
   | PHYS-401 | Nuclear Physics | Mr. Asim Javed |
 
 ### Material Sciences
