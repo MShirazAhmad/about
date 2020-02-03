@@ -10,12 +10,12 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Shiraz Ahmad"
+title                    : "shiraz-ahmad.com"
 title_separator          : "-"
 subtitle                 : "Personal Website"
-name                     : &name "Shiraz"
+name                     : "shiraz-ahmad.com"
 description              : #"Minimal Mistakes theme test."
-url                      : https://shiraz-ahmad.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shiraz-ahmad.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -100,19 +100,7 @@ author:
   avatar           : "/assets/images/shiraz.png"
   bio              : "Experimentalist, Entrepreneur, programmer, and educator."
   location         : "Pakistan"
-  links:
-    - label:
-      icon:
-      url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
-      url: "https://www.linkedin.com/in/shirazahmad-/"
-    - label:
-      icon:
-      url:
-    - label:
-      icon:
-      url:
+  linkedin         : shirazahmad-
 
 
 # Site Footer
