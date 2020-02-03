@@ -56,7 +56,7 @@ staticman:
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : "lunr"
 algolia:
@@ -74,7 +74,7 @@ yandex_site_verification :
 twitter:
   username               : #"mmistakes"
 facebook:
-  username               :
+  username               : "ShirazAhmad4"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/bio-photo.jpg"
@@ -101,18 +101,18 @@ author:
   bio              : "Experimentalist, Entrepreneur, programmer, and educator."
   location         : "Pakistan"
   links:
-    - label: "Your Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label:
+      icon:
+      url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/shirazahmad-/"
+    - label:
+      icon:
+      url:
+    - label:
+      icon:
+      url:
 
 
 # Site Footer
@@ -120,10 +120,10 @@ footer:
   links:
     - label: #"Twitter"
       icon: #"fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: #"https://twitter.com/"
+    - label: # "GitHub"
+      icon: #"fab fa-fw fa-github"
+      url: #"https://github.com/"
     - label: #"Instagram"
       icon: #"fab fa-fw fa-instagram"
       url: #"https://instagram.com/"
