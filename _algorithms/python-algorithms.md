@@ -1,6 +1,6 @@
 ---
 title: "Useful Python Functions"
-excerpt: "Simple but mostly used in physics laboratory."
+excerpt: "Simple but mostly used in physics laboratory"
 header:
   teaser: "assets/images/python.png"
 tags:
