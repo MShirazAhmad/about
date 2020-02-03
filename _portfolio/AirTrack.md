@@ -12,7 +12,7 @@ feature_row:
     url: "https://www.physlab.org/experiment/experiments-with-a-linear-air-track/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
+
   - image_path: /assets/images/Qosain.jpg
     excerpt: "**Qosain Scientific**"
     url: "https://www.qosain.pk/physics/lab-experiments/air-track-6-feet-with-photogates-and-physlogger-2"

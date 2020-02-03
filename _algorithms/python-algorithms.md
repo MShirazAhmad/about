@@ -3,7 +3,7 @@ title: "Useful Python Functions"
 excerpt: "Simple but mostly used in physics laboratory."
 header:
   teaser: "assets/images/python.png"
-tags: 
+tags:
   - Python
   - Gist
 toc: true

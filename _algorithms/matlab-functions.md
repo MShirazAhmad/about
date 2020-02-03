@@ -3,7 +3,7 @@ title: "Useful Matlab Functions"
 excerpt: "Simple but mostly used in physics laboratory."
 header:
   teaser: "assets/images/matlab.png"
-tags: 
+tags:
   - Matlab
   - Gist
 toc: true

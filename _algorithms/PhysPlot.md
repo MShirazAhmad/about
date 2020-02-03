@@ -2,7 +2,7 @@
 title: "Physplot"
 excerpt: "Source Code"
 header:
-  teaser: "assets/images/physplot.png"
+  teaser: "assets/images/physplot-logo.png"
 tags:
   - Python
   - Gist
