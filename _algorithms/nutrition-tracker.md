@@ -2,7 +2,7 @@
 title: "Nutrition Tracker"
 excerpt: "Source Code"
 header:
-  teaser: "assets/images/physplot-logo.png"
+  teaser: "assets/images/mm-customizable-feature.png"
 tags:
   - Python
   - Gist
