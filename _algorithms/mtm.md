@@ -1,9 +1,9 @@
 ---
-title: "Matrix Transformation Method"
-excerpt: "Reflection and Transmission of Light from Multilayer Films (using Matlab)"
+title: "Matrix Optics"
+excerpt: "Ray transfer matrix analysis"
 header:
   teaser: "assets/images/multilayer/ppol.png"
-tags: 
+tags:
   - Matlab
   - Gist
   - Optics
