@@ -1,9 +1,20 @@
 ---
 permalink: /teachings/
 title: "Teachings"
+layout: single
+classes: wide
 ---
 {% include toc %}
 
+###  Lab Teaching Assistant
+
+| Course Code | Description |   Role    |
+| ----------- | ---------------------------------------- | ---------------- |
+| PHY-100/200 | Undergraduate Physics Lab | Spring 2020 |
+| PHY-100/200 | Undergraduate Physics Lab | Fall 2019 |
+
+During the tenure, my key responsibilities were to help students with the experiments, supervising and grading.
+[Related link](https://www.physlab.org/lab-i-phy-100200/)
 
 ###  External Instructor
 
@@ -47,18 +58,6 @@ title: "Teachings"
 |	29-11-19	|	30	|	Hall Effect, Circulating Charge Particles, Magnetic Force On Current Carrying Wire, Numerical Problems	|
 |	04-12-19	|	31	|	Magnetic Field Due To Current, Biot-Savart Law	|
 |	06-12-19	|	32	|	Ampere's Law, Magnetic Field Inside/Outside Wire, Solenoids and Toroids and Between two Parallel Wires, Numerical Problems	|
-
-
-
-###  Lab Teaching Assistant
-
-| Course Code | Description |   Role    |
-| ----------- | ---------------------------------------- | ---------------- |
-| PHY-100/200 | Undergraduate Physics Lab | Spring 2020 |
-| PHY-100/200 | Undergraduate Physics Lab | Fall 2019 |
-
-During the tenure, my key responsibilities were to help students with the experiments, supervising and grading.
-[Related link](https://www.physlab.org/lab-i-phy-100200/)
 
 
 ###  Graduate Teaching Assistant
