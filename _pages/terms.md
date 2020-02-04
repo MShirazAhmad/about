@@ -1,6 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
+classes: wide
 ---
 
 ## Reflection and Transmission of Light from Multilayer Films: An easy approach, using MATLAB
