@@ -1,17 +1,31 @@
 ---
-permalink: /coursework/
-title: "BS/MS Coursework"
+permalink: /teachings/
+title: "Teachings"
 ---
 {% include toc %}
 
 
-###  English
+###  External Instructor
 
-  | Course Code | Description |   Instructor    |
+| Course Code | Description |   Role    |
+| ----------- | ---------------------------------------- | ---------------- |
+| PHY-100/200 | Undergraduate Physics Lab | Spring 2020 |
+| PHY-100/200 | Undergraduate Physics Lab | Fall 2019 |
+
+###  Lab Teaching Assistant
+
+| Course Code | Description |   Role    |
+| ----------- | ---------------------------------------- | ---------------- |
+| PHY-100/200 | Undergraduate Physics Lab | Spring 2020 |
+| PHY-100/200 | Undergraduate Physics Lab | Fall 2019 |
+
+
+###  Graduate Teaching Assistant
+
+  | Course Code | Description |   Role    |
   | ----------- | ---------------------------------------- | ---------------- |
-  | ENGL-101 | English-I (Functional English) | Ms. Momina Zaidi |
-  | ENGL-102 | English-II (Communication Skills) | Ms. Momina Zaidi |
-  | ENGL-201 | English-III (Report Writing) | Ms. Momina Zaidi |
+  | EPHY-104 | Modern Physics | Spring 2018 |
+  | EPHY-104 | Modern Physics | Spring 2017 |
 
 ###  Management
 
