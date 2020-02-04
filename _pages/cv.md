@@ -1,10 +1,15 @@
 ---
-layout: archive
 title: "Resume"
 permalink: /cv/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/splashjpg.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
 redirect_from:
   - /resume
+classes: wide
 ---
 
 
