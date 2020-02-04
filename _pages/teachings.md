@@ -22,7 +22,7 @@ During the tenure, my key responsibilities were to help students with the experi
 | ----------- | ---------------------------------------- | ---------------- |
 | EE-117 (Sec B and F) | Applied Physics | Fall 2019 |
 
-#### Lectures
+#### Lectures Delivered
 
 |	Date	|	Lec |	Class Activity/Contents	|
 |	-----------	|	-----------	|	-----------	|
