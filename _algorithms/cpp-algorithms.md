@@ -9,6 +9,7 @@ tags:
 toc: true
 ---
 
+I studied a course *Computational Physics* in BS, and we used C++ excessively in that subject. Some of the scripts that I developed are included.
 
 <script src="https://gist.github.com/MShirazAhmad/0d576849df069819ac23a5dea71c9593.js"></script>
 
