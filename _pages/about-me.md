@@ -15,14 +15,14 @@ intro:
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=D3K29R6g67A" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D3K29R6g67A" frameborder="0"> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a6_qRivI7Vc" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6_qRivI7Vc" frameborder="0"> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=332seT6svWQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/332seT6svWQ" frameborder="0"> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a_AYdEIMNjY" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_AYdEIMNjY" frameborder="0"> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5xirbGs3h9Y" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="hhttps://www.youtube.com/embed/5xirbGs3h9Y" frameborder="0"> </iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oRtnI9yc8QU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRtnI9yc8QU" frameborder="0"> </iframe>
