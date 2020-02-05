@@ -64,6 +64,17 @@ During the tenure, my key responsibilities were to help students with the experi
 |	04/12/19	|	31	|	Magnetic Field Due To Current, Biot-Savart Law	|
 |	06/12/19	|	32	|	Ampere's Law, Magnetic Field Inside/Outside Wire, Solenoids and Toroids and Between two Parallel Wires, Numerical Problems	|
 
+#### Assignments:
+ * Assignment-1, [Section B/F](\assets\docs\fast\as1.pdf)
+ * Assignment-2, [Section B/F](\assets\docs\fast\as2.pdf)
+ * Assignment-3, [Section B/F](\assets\docs\fast\as3.pdf)
+
+#### Quizzes:
+ * Quizze-1, [Section B](\assets\docs\fast\q1_b.pdf), [Section F](\assets\docs\fast\q1_f.pdf)
+ * Quizze-2, [Section B](\assets\docs\fast\q2_b.pdf), [Section F](\assets\docs\fast\q2_f.pdf)
+ * Quizze-3, [Section B](\assets\docs\fast\q3_b.pdf), [Section F](\assets\docs\fast\q3_f.pdf)
+
+
 
 ###  Graduate Teaching Assistant
 
