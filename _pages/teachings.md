@@ -3,6 +3,11 @@ permalink: /teachings/
 title: "Teachings"
 layout: single
 classes: wide
+
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/fast.jpg
 ---
 {% include toc %}
 
