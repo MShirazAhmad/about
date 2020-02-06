@@ -1,7 +1,3 @@
----
-layout: raw-page
----
-
 @USERNAME's life
 ===============
 
