@@ -309,6 +309,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _redirectlink
+  - scope:
+      path: ""
+      type: redirectlink
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
   # _algorithms
   - scope:
       path: ""
