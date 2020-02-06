@@ -1,6 +1,6 @@
 
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -254,6 +254,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -285,6 +288,14 @@ defaults:
   - scope:
       path: ""
       type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
     values:
       layout: single
       author_profile: true
