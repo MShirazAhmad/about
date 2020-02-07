@@ -12,7 +12,7 @@ main:
     url: /coursework/
   - title: "Resume"
     url: /cv/
-  - title: "timeline"
+  - title: "Timeline"
     url: /timeline/
 
 # sidebar navigation list sample
