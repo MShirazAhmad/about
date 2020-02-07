@@ -13,7 +13,7 @@ main:
   - title: "Resume"
     url: /cv/
   - title: "Timeline"
-    url: /timeline/
+    url: http://timeline.shiraz-ahmad.com/
 
 # sidebar navigation list sample
 sidebar-sample:
