@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "shiraz-ahmad.com"
 title_separator          : "-"
-subtitle                 : "shiraz-ahmad.com"
+subtitle                 : #"shiraz-ahmad.com"
 name                     : "shiraz-ahmad.com"
 description              : #"shiraz-ahmad.com"
 url                      : "https://shiraz-ahmad.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
