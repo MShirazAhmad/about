@@ -1,6 +1,7 @@
 ---
 title: "Physplot"
 excerpt: "Source Code"
+classes: wide
 header:
   teaser: "assets/images/physplot-logo.png"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Nutrition Tracker"
 excerpt: "Source Code"
+classes: wide
 header:
   teaser: "assets/images/mm-customizable-feature.png"
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Useful C++ Scripts"
 excerpt: "For numerical analysis."
+classes: wide
 header:
   teaser: "assets/images/cpp.jpg"
 tags:
