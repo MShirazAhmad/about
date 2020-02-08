@@ -42,8 +42,7 @@ feature_row9:
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/badges-awesome-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/MShirazAhmad" aria-label="Follow @MShirazAhmad on GitHub">Follow @MShirazAhmad</a><a class="github-button" href="https://github.com/MShirazAhmad/MultiLayerFilm/archive/master.zip" aria-label="Download MShirazAhmad/MultiLayerFilm on GitHub">Download</a>
-
+<a class="github-button" href="https://github.com/MShirazAhmad" aria-label="Follow @MShirazAhmad on GitHub">Follow @MShirazAhmad</a><a class="github-button" href="https://github.com/MShirazAhmad/MultiLayerFilm/archive/master.zip" aria-label="Download MShirazAhmad/MultiLayerFilm on GitHub">Download</a><a class="github-button" href="https://github.com/MShirazAhmad/MultiLayerFilm/archive/master.zip" aria-label="Download MShirazAhmad/MultiLayerFilm on GitHub">Download</a>
 {% include toc %}
 
 # Introduction
