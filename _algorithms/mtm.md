@@ -39,10 +39,11 @@ feature_row9:
 
 
 [![DOI:10.13140/RG.2.2.18069.58081](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.13140/RG.2.2.18069.58081)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/badges-awesome-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License:CC BY-SA 4.0](https://img.shields.io/badge/badges-awesome-green.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-<!-- Place this tag where you want the button to render. -->
+
 <a class="github-button" href="https://github.com/MShirazAhmad" aria-label="Follow @MShirazAhmad on GitHub">Follow @MShirazAhmad</a><a class="github-button" href="https://github.com/MShirazAhmad/MultiLayerFilm/archive/master.zip" aria-label="Download MShirazAhmad/MultiLayerFilm on GitHub">Download</a>
+
 {% include toc %}
 
 # Introduction
