@@ -1,14 +1,15 @@
 ---
 title: "Arduino High Speed Switching"
 excerpt: ""
-caption: "Photo credit: [PhysLab](http://physlab.org/)"
 classes: wide
 header:
-  teaser: "assets/images/newton.jpg"
+  teaser: "assets/images/mm-customizable-feature.png"
 tags:
-  - Matlab
+  - C++
   - Gist
 toc: true
 ---
+<a class="github-button" href="https://github.com/MShirazAhmad" aria-label="Follow @MShirazAhmad on GitHub">Follow @MShirazAhmad</a><a class="github-button" href="https://github.com/MShirazAhmad/Arduino-High-Speed-Switching/fork" data-icon="octicon-repo-forked" aria-label="Fork MShirazAhmad/Arduino-High-Speed-Switching on GitHub">Fork</a>
 
-### Page Under Construction
+
+<script src="https://gist.github.com/MShirazAhmad/6841706abc1b6724795f00dbeec348b4.js"></script>
