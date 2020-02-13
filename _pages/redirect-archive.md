@@ -1,6 +1,6 @@
 ---
 title: Redirect
 layout: collection
-permalink: /redirectlink/
+permalink: /~/
 classes: wide
 ---
