@@ -126,6 +126,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _redirectlink
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -311,7 +312,7 @@ defaults:
       comment: true
   # _redirectlink
   - scope:
-      path: "/~/"
+      path: ""
       type: redirectlink
     values:
       layout: single
