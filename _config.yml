@@ -311,7 +311,7 @@ defaults:
       comment: true
   # _redirectlink
   - scope:
-      path: ""
+      path: "_redirectlink"
       type: redirectlink
     values:
       layout: single
