@@ -1,4 +1,4 @@
 ---
-permalink: /timeline/
-redirect_to: http://timeline.shiraz-ahmad.com/
+permalink: /~timeline/
+redirect_to: https://github.com/MShirazAhmad/life/edit/master/life.md
 ---
