@@ -11,7 +11,7 @@ toc: true
 ---
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 <a class="github-button" href="https://github.com/MShirazAhmad" aria-label="Follow @MShirazAhmad on GitHub">Follow @MShirazAhmad</a><a class="github-button" href="https://github.com/MShirazAhmad/Arduino-High-Speed-Switching/fork" data-icon="octicon-repo-forked" aria-label="Fork MShirazAhmad/Arduino-High-Speed-Switching on GitHub">Fork</a>
 
