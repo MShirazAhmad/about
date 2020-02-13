@@ -1,6 +1,6 @@
 ---
 title: Redirect
 layout: collection
-permalink: /redirect/
+permalink: /redirectlink/
 classes: wide
 ---
