@@ -1,6 +1,6 @@
 ---
 title: "Arduino High Speed Switching"
-excerpt: ""
+excerpt: "[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)"
 classes: wide
 header:
   teaser: "assets/images/mm-customizable-feature.png"
