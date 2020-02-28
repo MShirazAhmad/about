@@ -19,9 +19,7 @@ title: "Coursework"
   | ----------- | ---------------------------------------- | ---------------- |
   | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
-  | ----------- | ---------------------------------------- | ---------------- |
-  | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
-  | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
+
 
 
 ###  Management
@@ -30,47 +28,24 @@ title: "Coursework"
   | ----------- | ---------------------------------------- | ---------------- |
   | MNGT-112 | Entrepreneurship | Dr. Naveed Shareef |
   | MNGT-111 | Human Resource Management | Dr. Naveed Shareef |
-
-###  Education
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
-  |          | <h3 id="custom-id">My Great Heading</h3> |                  |
+  |          | Education |                  |
   | EDUC-111 | Teaching and Learning | Ms. Munawar Zahra |
-
-###  English
-
-  | Course Code | Description |   Instructor    |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | English |                  |
   | ENGL-101 | English-I (Functional English) | Ms. Momina Zaidi |
   | ENGL-102 | English-II (Communication Skills) | Ms. Momina Zaidi |
   | ENGL-201 | English-III (Report Writing) | Ms. Momina Zaidi |
-
-###  Math
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | Math |                  |
   | MATH-101 | Calculus-I | Dr. Awais Younus |
   | MATH-102 | Calculus-II | Dr. Awais Younus |
   | MATH-201 | Calculus-III | Dr. Awais Younus |
   | PHYS-301 | Mathematical Methods of Physics-I | Dr. M. Younus Nadeem |
   | PHYS-302 | Mathematical Methods of Physics-II | Dr. M. Younus Nadeem |
-
-###  Electronics
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | Electronics |                  |
   | PHYS-309 | Analog Electronics-I | Dr. M. Tariq Bhatti |
   | PHYS-310 | Analog Electronics-II | Dr. M. Tariq Bhatti |
   | PHYS-421 | Digital Electronics-I | 	Dr. Ejaz Ahmad |
   | PHYS-422 | Digital Electronics-II | 	Dr. Ejaz Ahmad |
-
-###  Experimental Physics
-
-<a href=/coursework/experiments>List of Experiments Performed</a>
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | Experimental Physics |                  |
   | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
   | PHYS-106 | Physics Laboratory-II | Fezza Ahmad |
   | PHYS-203 | Physics Laboratory-Ill | Dr. M. Ismail |
@@ -81,47 +56,27 @@ title: "Coursework"
   | PHYS-424 | Laboratory/Project | Dr. M. Tariq Bhatti |
   | PHY-500 | Graduate Physics Lab | Dr. M. Faryad |
   | PHY-602 | Engineering Physics Project Lab | Dr. M. Sabieh Anwar |
-
-### Photonics
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | Photonics |                  |
   | PHYS-308 | Optics | Instructor |
   | PHYS-402 | Laser | Dr. Misbah-ul-Islam |
   | PHY-516 | Opto-Electronic Devices | Dr. M. Imran Cheema |
   | PHY-416 | Principles of Optics | Dr. M. Imran Cheema |
   | PHY-5112 | Quantum Chemistry and Spectroscopy | Dr. Habib-ur- Rehman |
-
-###  Quantum mechanics
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | Quantum mechanics |                  |
   | PHYS-303 | Quantum Mechanics-I | Dr. Javed Ahmad |
   | PHYS-304 | Quantum Mechanics-II | Dr. S. Hamad Bukhari |
   | PHY-517 | Quantum Mechanics III | Dr. Maqbool Ahmad |
   | PHYS-401 | Nuclear Physics | Mr. Asim Javed |
-
-### Material Sciences
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |          | Material Sciencess |                  |
   | PHYS-403 | Solid State Physics | Instructor |
   | PHYS-404 | Solid State Physics-II | Instructor |
   | PHYS-306 | Thermal and Statistical Physics | Instructor |
   | PHY-535 | Advanced Condensed Matter Physics | Instructor |
-
-### Electrodynamics
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  | | Electrodynamics ||
   | PHYS-405 | Electromagnetic Theory-I | Dr. Zakariya Arif |
   | PHYS-406 | Electromagnetic Theory-II | Dr. Zakariya Arif |
   | PHY-501 | Electrodynamics | Dr. Muhammad Faryad |
-
-### Foundation Physics
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  | | Foundation Physics | |
   | PHYS-101 | Mechanics-I | Ms. Mudassira |
   | PHYS-102 | Mechanics-II | Ms. Mudassira |
   | PHYS-104 | Waves and Oscillations | Dr. Niaz Ahmed |
@@ -130,20 +85,12 @@ title: "Coursework"
   | PHYS-204 | Heat and Thermodynamics | Dr. Niaz Ahmed |
   | PHYS-208 | Electronics and Modern Physics | Dr. Ishfaq |
   | PHYS-305 | Classical Mechanics | Dr. Anwar Manzoor |
-
-###  Chemistry
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  | | Chemistry | |
   | CHEM-151 | Inorganic Chemistry | Dr. Arif |
   | CHEM-160 | Organic Chemistry | Dr. Ishfaq |
   | CHEM-271 | Physical Chemistry | ........ |
   | CHEM-210 | Analytical Chemistry | Mr. Salman |
-
-###  Miscellaneous
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  | | Miscellaneous ||
   | PAKS-101 | Pakistan Studies | Instructor |
   | ISLS-101 | Islamic Studies | Dr. Idrees Lodhi |
   | ARAB-101 | Arabic | Dr. Abdurraheem |
