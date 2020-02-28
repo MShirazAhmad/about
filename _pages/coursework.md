@@ -1,6 +1,6 @@
 ---
 permalink: /coursework/
-title: "BS/MS Coursework"
+title: "Coursework"
 ---
 {% include toc %}
 
