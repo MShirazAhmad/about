@@ -2,7 +2,6 @@
 permalink: /coursework/
 title: "Coursework"
 ---
-{% include toc %}
 
 ## Online Courses
 
