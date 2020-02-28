@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Teachings"
     url: /teachings/
-  - title: "Projects"
-    url: /projects/
+  - title: "Algorithms"
+    url: /algorithms/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Coursework"

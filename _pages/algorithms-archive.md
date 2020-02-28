@@ -1,22 +1,22 @@
 ---
-title: Projects
+title: Algorithms
 layout: collection
-permalink: /projects/
-collection: projects
+permalink: /algorithms/
+collection: algorithms
 entries_layout: grid
 classes: wide
 ---
 {% capture written_label %}'None'{% endcapture %}
 
-{% for projects in site.projects %}
-  {% unless projects.output == false or projects.label == "projects" %}
-    {% capture label %}{{ projects.label }}{% endcapture %}
+{% for algorithms in site.algorithms %}
+  {% unless algorithms.output == false or algorithms.label == "algorithms" %}
+    {% capture label %}{{ algorithms.label }}{% endcapture %}
     {% if label != written_label %}
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
-  {% for post in projects.docs %}
-    {% unless projects.output == false or projects.label == "projects" %}
+  {% for post in algorithms.docs %}
+    {% unless algorithms.output == false or algorithms.label == "algorithms" %}
       {% include archive-single.html %}
     {% endunless %}
   {% endfor %}

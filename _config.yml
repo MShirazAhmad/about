@@ -261,7 +261,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  projects:
+  algorithms:
     output: true
     permalink: /:collection/:path/
 
@@ -318,10 +318,10 @@ defaults:
       layout: single
       author_profile: false
       share: false
-  # _projects
+  # _algorithms
   - scope:
       path: ""
-      type: projects
+      type: algorithms
     values:
       layout: single
       author_profile: false

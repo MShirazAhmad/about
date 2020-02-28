@@ -48,7 +48,7 @@ layout: archive
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ tag[0] }}</h2>
         <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for projects in tag.last %}
+          {% for algorithms in tag.last %}
             {% include archive-single.html type=page.entries_layout %}
           {% endfor %}
         </div>
@@ -57,3 +57,4 @@ layout: archive
     {% endif %}
   {% endfor %}
 {% endfor %}
+
