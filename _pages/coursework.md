@@ -13,19 +13,12 @@ title: "Coursework"
 
 ## BS/MS Coursework
 
-###  Computer Sciences
-
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
+  | | Computer Sciences | |
   | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
-
-
-
-###  Management
-
-  | Course Code | Description |Instructor |
-  | ----------- | ---------------------------------------- | ---------------- |
+  |  | Management | |
   | MNGT-112 | Entrepreneurship | Dr. Naveed Shareef |
   | MNGT-111 | Human Resource Management | Dr. Naveed Shareef |
   |          | Education |                  |
