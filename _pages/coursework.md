@@ -21,7 +21,7 @@ classes: wide
   |  | **<font size="+1">Management</font>** | |
   | MNGT-112 | Entrepreneurship | Dr. Naveed Shareef |
   | MNGT-111 | Human Resource Management | Dr. Naveed Shareef |
-  |          | Education |                  |
+  |  | **<font size="+1">Education</font>** | |               |
   | EDUC-111 | Teaching and Learning | Ms. Munawar Zahra |
   |          | **<font size="+1">English</font>** |                  |
   | ENGL-101 | English-I (Functional English) | Ms. Momina Zaidi |
