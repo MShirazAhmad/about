@@ -1,6 +1,7 @@
 ---
 permalink: /coursework/
 title: "Coursework"
+classes: wide
 ---
 
 ## Online Courses
