@@ -8,7 +8,7 @@ classes: wide
 
   | Description | Offered By | Issue Date |Credential ID |
   | ----------- | ---------------------------------------- | ---------------- |
-  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) |![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/umich.svg?auto=format%2Ccompress&dpr=1&h=70) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
+  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) |![](https://1000logos.net/wp-content/uploads/2018/08/University-of-Michigan-Logo.png) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
 
 
 ## BS/MS Coursework
