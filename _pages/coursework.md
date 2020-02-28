@@ -33,7 +33,7 @@ title: "Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  |          | ###  Education |                  |
+  |          | <h3 id="custom-id">My Great Heading</h3> |                  |
   | EDUC-111 | Teaching and Learning | Ms. Munawar Zahra |
 
 ###  English
