@@ -14,7 +14,7 @@ title: "Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | | **Computer Sciences** | |
+  | | __**Computer Sciences**__ | |
   | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
   ||||
@@ -41,7 +41,8 @@ title: "Coursework"
   | PHYS-310 | Analog Electronics-II | Dr. M. Tariq Bhatti |
   | PHYS-421 | Digital Electronics-I | 	Dr. Ejaz Ahmad |
   | PHYS-422 | Digital Electronics-II | 	Dr. Ejaz Ahmad |
-  |          | Experimental Physics |                  |
+  ||||
+  |          | **Experimental Physics** |                  |
   | PHYS-103 | Physics Laboratory-I | 	Dr. Fayyaz Hussain |
   | PHYS-106 | Physics Laboratory-II | Fezza Ahmad |
   | PHYS-203 | Physics Laboratory-Ill | Dr. M. Ismail |
@@ -65,12 +66,14 @@ title: "Coursework"
   | PHYS-304 | Quantum Mechanics-II | Dr. S. Hamad Bukhari |
   | PHY-517 | Quantum Mechanics III | Dr. Maqbool Ahmad |
   | PHYS-401 | Nuclear Physics | Mr. Asim Javed |
-  |          | Material Sciencess |                  |
+  ||||
+  |          | **Material Sciencess** |                  |
   | PHYS-403 | Solid State Physics | Instructor |
   | PHYS-404 | Solid State Physics-II | Instructor |
   | PHYS-306 | Thermal and Statistical Physics | Instructor |
   | PHY-535 | Advanced Condensed Matter Physics | Instructor |
-  | | Electrodynamics ||
+  ||||
+  | | **Electrodynamics** ||
   | PHYS-405 | Electromagnetic Theory-I | Dr. Zakariya Arif |
   | PHYS-406 | Electromagnetic Theory-II | Dr. Zakariya Arif |
   | PHY-501 | Electrodynamics | Dr. Muhammad Faryad |
