@@ -33,6 +33,7 @@ title: "Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
+  |          | ###  Education |                  |
   | EDUC-111 | Teaching and Learning | Ms. Munawar Zahra |
 
 ###  English
