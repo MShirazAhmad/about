@@ -14,7 +14,7 @@ title: "Coursework"
 
   | Course Code | Description |Instructor |
   | ----------- | ---------------------------------------- | ---------------- |
-  | | __**Computer Sciences**__ | |
+  | | **<font size="+1">Computer Sciences</font>** | |
   | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
   | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
   ||||
