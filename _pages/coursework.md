@@ -1,17 +1,26 @@
 ---
 permalink: /coursework/
-title: "BS/MS Coursework"
+title: "Coursework"
 ---
 {% include toc %}
 
+## Online Courses
 
-###  English
-
-  | Course Code | Description |   Instructor    |
+  | Description | Issue Date |Credential ID |
   | ----------- | ---------------------------------------- | ---------------- |
-  | ENGL-101 | English-I (Functional English) | Ms. Momina Zaidi |
-  | ENGL-102 | English-II (Communication Skills) | Ms. Momina Zaidi |
-  | ENGL-201 | English-III (Report Writing) | Ms. Momina Zaidi |
+  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
+
+
+## BS/MS Coursework
+
+###  Computer Sciences
+
+  | Course Code | Description |Instructor |
+  | ----------- | ---------------------------------------- | ---------------- |
+  | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
+  | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
+
+
 
 ###  Management
 
@@ -26,12 +35,13 @@ title: "BS/MS Coursework"
   | ----------- | ---------------------------------------- | ---------------- |
   | EDUC-111 | Teaching and Learning | Ms. Munawar Zahra |
 
-###  Computer Sciences
+###  English
 
-  | Course Code | Description |Instructor |
+  | Course Code | Description |   Instructor    |
   | ----------- | ---------------------------------------- | ---------------- |
-  | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
-  | PHYS-307 | Computational Physics with C++ | Dr. Fayyaz Hussain |
+  | ENGL-101 | English-I (Functional English) | Ms. Momina Zaidi |
+  | ENGL-102 | English-II (Communication Skills) | Ms. Momina Zaidi |
+  | ENGL-201 | English-III (Report Writing) | Ms. Momina Zaidi |
 
 ###  Math
 
