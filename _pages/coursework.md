@@ -8,7 +8,7 @@ title: "Coursework"
 
   | Description | Issue Date |Credential ID |
   | ----------- | ---------------------------------------- | ---------------- |
-  | Introduction to Data Science in Python | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
+  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
 
 
 ## BS/MS Coursework
