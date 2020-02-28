@@ -6,9 +6,9 @@ classes: wide
 
 ## Online Courses
 
-  | Description | Issue Date |Credential ID |
+  | Description | Offered By | Issue Date |Credential ID |
   | ----------- | ---------------------------------------- | ---------------- |
-  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
+  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) |![](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/xdp/umich.svg?auto=format%2Ccompress&dpr=1&h=70) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
 
 
 ## BS/MS Coursework
