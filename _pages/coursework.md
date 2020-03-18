@@ -11,6 +11,7 @@ share: true
   | ----------- | ---------------------------------------- | ---------------- |
   | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/University_of_Michigan_logo.svg/214px-University_of_Michigan_logo.svg.png) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
   | [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql/) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duke_University_logo.svg/200px-Duke_University_logo.svg.png) | February 29, 2020 | [V8RDYPM9X8N2](https://www.coursera.org/account/accomplishments/certificate/V8RDYPM9X8N2) |
+  | [Using Databases with Python](https://www.coursera.org/learn/python-databases/) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/University_of_Michigan_logo.svg/214px-University_of_Michigan_logo.svg.png) | March 09, 2020 | [BTE4CU64GBZ4](https://www.coursera.org/account/accomplishments/verify/BTE4CU64GBZ4) |
 
 
 
