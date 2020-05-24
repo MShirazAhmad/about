@@ -17,7 +17,7 @@ header:
 | PHY-505     | Computational Physics     | [LUMS University](https://lums.edu.pk) | Teaching Assistant (Volunteer) | Spring 2020 |
 | PHY-100/200 | Undergraduate Physics Lab | [LUMS University](https://lums.edu.pk) | Lab Teaching Assistant | Spring 2020 |
 | PHY-100/200 | Undergraduate Physics Lab | [LUMS University](https://lums.edu.pk) |  Lab Teaching Assistant | Fall 2019 |
-| EE-117      | Applied Physics  ([Resources](/teachings/ee117))         | [FAST National University](http://lhr.nu.edu.pk/)| External Instructor    | Fall 2019 |
+| EE-117      | Applied Physics  ([Resources](/teachings/ee117))         | [FAST National University](http://lhr.nu.edu.pk/)| Visiting Lecturer    | Fall 2019 |
 | PHY-104     | Modern Physics            | [LUMS University](https://lums.edu.pk) |  Graduate Teaching Assistant | Spring 2018 |
 | PHY-104     | Modern Physics    ([Resources](https://www.physlab.org/modern-physics-2018/))        | [LUMS University](https://lums.edu.pk) |  Graduate Teaching Assistant | Spring 2017 |
 

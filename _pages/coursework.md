@@ -9,15 +9,15 @@ share: true
 
   | Description | Offered By | Issue Date |Credential ID |
   | ----------- | ---------------------------------------- | ---------------- |
-  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/University_of_Michigan_logo.svg/214px-University_of_Michigan_logo.svg.png) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
-  | [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql/) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duke_University_logo.svg/200px-Duke_University_logo.svg.png) | February 29, 2020 | [V8RDYPM9X8N2](https://www.coursera.org/account/accomplishments/certificate/V8RDYPM9X8N2) |
-  | [Using Databases with Python](https://www.coursera.org/learn/python-databases/) |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/University_of_Michigan_logo.svg/214px-University_of_Michigan_logo.svg.png) | March 09, 2020 | [BTE4CU64GBZ4](https://www.coursera.org/account/accomplishments/verify/BTE4CU64GBZ4) |
-
+  | [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp) | Pierian Data Inc (udemy) | March 25, 2020 | [UC-e6527304-b62b-4dbf-9a71-2d80a9ac013b](http://ude.my/UC-e6527304-b62b-4dbf-9a71-2d80a9ac013b) |
+  | [Using Databases with Python](https://www.coursera.org/learn/python-databases/) | University of Michigan (coursera) | March 09, 2020 | [BTE4CU64GBZ4](https://www.coursera.org/account/accomplishments/verify/BTE4CU64GBZ4) |
+  | [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql/) | Duke University | February 29, 2020 | [V8RDYPM9X8N2](https://www.coursera.org/account/accomplishments/certificate/V8RDYPM9X8N2) |
+  | [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) | University of Michigan (Coursera) | February 22, 2020 | [CTYUQCC7C23S](https://www.coursera.org/account/accomplishments/verify/CTYUQCC7C23S) |
 
 
 ## BS/MS Coursework
 
-  | Course Code | Description |Instructor |
+  | Course Code | Description |Instructor Name |
   | ----------- | ---------------------------------------- | ---------------- |
   | | **<font size="+1">Computer Sciences</font>** | |
   | COMP-101 | Introduction to Computer and its Applications | Dr. M. Junaid Iqbal Khan |
