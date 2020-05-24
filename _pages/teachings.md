@@ -27,5 +27,4 @@ header:
 | ----------- | ----------------------    | ---------------- | ---------------- |
 | PHY-505     | Computational Physics   | [LUMS University](https://lums.edu.pk) | 3D Plotting and Debugging with Python ([Resources](https://shiraz-ahmad.com/assets/docs/lums/13_3D_Plotting_and_Debugging.pdf)) | Mar 03 2020 |
 | PHY-505     | Computational Physics     | [LUMS University](https://lums.edu.pk) | Python Practice Session ([Resources](https://shiraz-ahmad.com/assets/docs/lums/12_Practise_Session.pdf)) | Feb 27 2020 |
-| PHY 300/500 | Graduate Physics Lab   | [LUMS University](https://lums.edu.pk) | Introduction to MATLAB |
-Sep 12, 2019|
+| PHY 300/500 | Graduate Physics Lab   | [LUMS University](https://lums.edu.pk) | Introduction to MATLAB | Sep 12, 2019|
