@@ -1,5 +1,5 @@
 ---
-title: "Useful C++ Scripts"
+title: "C++ Scripts"
 excerpt: "For numerical analysis."
 classes: wide
 header:

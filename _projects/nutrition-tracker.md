@@ -1,6 +1,6 @@
 ---
 title: "Nutrition Tracker"
-excerpt: "Source Code"
+excerpt: "GUI based software."
 classes: wide
 header:
   teaser: "assets/images/mm-customizable-feature.png"

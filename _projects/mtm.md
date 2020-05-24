@@ -1,6 +1,6 @@
 ---
 title: "Matrix Optics"
-excerpt: "Ray transfer matrix analysis (Article)"
+excerpt: "Ray transfer matrix analysis (Article)."
 classes: wide
 header:
   teaser: "assets/images/multilayer/ppol.png"

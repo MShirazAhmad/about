@@ -1,6 +1,6 @@
 ---
 title: "Arduino High Speed Switching"
-excerpt: "[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)"
+excerpt: "For NMR spectroscopy."
 classes: wide
 header:
   teaser: "assets/images/mm-customizable-feature.png"
