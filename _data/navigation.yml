@@ -13,7 +13,9 @@ main:
   - title: "Resume"
     url: /cv/
   - title: "Timeline"
-    url: http://timeline.shiraz-ahmad.com/
+    url: https://timeline.shiraz-ahmad.com/
+  - title: "JupyterHub"
+    url: http://jupyterhub.shiraz-ahmad.com/
 
 # sidebar navigation list sample
 sidebar-sample:
