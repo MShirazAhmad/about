@@ -3,7 +3,8 @@ title: "Favourite Books"
 permalink: /books/
 ---
 
-
-The Elements of Style, 2011 Edition by William Strunk, Chris Hong
-
 ![image](https://shiraz-ahmad.com/assets/images/eos.jpg)
+
+[The Elements of Style, 2011 Edition by William Strunk, Chris Hong](./assets/books/The%20Elements%20of%20Style,%202011%20Edition%20by%20William%20Strunk,%20Chris%20Hong.pdf)
+
+
