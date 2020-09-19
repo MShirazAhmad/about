@@ -5,10 +5,13 @@ classes: wide
 share: true
 ---
 
+This page includes, a list of all courses that I took in my life.
+
 ## Online Courses
 
   | Description | Offered By | Issue Date |Credential ID |
   | ----------- | ---------------------------------------- | ---------------- |
+  | [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone/) | deeplearning.ai (coursera) | July 01, 2020 | [KNDV56JCLVNA](https://www.coursera.org/account/accomplishments/certificate/KNDV56JCLVNA) |
   | [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp) | Pierian Data Inc (udemy) | March 25, 2020 | [UC-e6527304-b62b-4dbf-9a71-2d80a9ac013b](http://ude.my/UC-e6527304-b62b-4dbf-9a71-2d80a9ac013b) |
   | [Using Databases with Python](https://www.coursera.org/learn/python-databases/) | University of Michigan (coursera) | March 09, 2020 | [BTE4CU64GBZ4](https://www.coursera.org/account/accomplishments/verify/BTE4CU64GBZ4) |
   | [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql/) | Duke University (coursera) | February 29, 2020 | [V8RDYPM9X8N2](https://www.coursera.org/account/accomplishments/certificate/V8RDYPM9X8N2) |
