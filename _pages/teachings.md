@@ -19,12 +19,12 @@ header:
 | PHY-100/200 | Undergraduate Physics Lab | [LUMS University](https://lums.edu.pk) | Lab Teaching Assistant | Spring 2020 |
 | PHY-100/200 | Undergraduate Physics Lab | [LUMS University](https://lums.edu.pk) |  Lab Teaching Assistant | Fall 2019 |
 | EE-117      | Applied Physics  ([Resources](/teachings/ee117))         | [FAST National University](http://lhr.nu.edu.pk/)| External Instructor  | Fall 2019 |
-| PHY-104     | Modern Physics            | [LUMS University](https://lums.edu.pk) |  Graduate Teaching Assistant | Spring 2018 |
-| PHY-104     | Modern Physics    ([Resources](https://www.physlab.org/modern-physics-2018/))        | [LUMS University](https://lums.edu.pk) |  Graduate Teaching Assistant | Spring 2017 |
+| PHY-104     | Modern Physics            | [LUMS University](https://lums.edu.pk) |  Graduate Teaching Assistant | Spring 2019 |
+| PHY-104     | Modern Physics    ([Resources](https://www.physlab.org/modern-physics-2018/))        | [LUMS University](https://lums.edu.pk) |  Graduate Teaching Assistant | Spring 2018 |
 
 # Workshops Conducted:
 
-| Course Code | Course Name |    Institute   | Title | |
+| Course Code | Course Name |    Institute   | Title | Date |
 | ----------- | ----------------------    | ---------------- | ---------------- |
 | PHY-505     | Computational Physics   | [LUMS University](https://lums.edu.pk) | 3D Plotting and Debugging with Python ([Resources](https://shiraz-ahmad.com/assets/docs/lums/13_3D_Plotting_and_Debugging.pdf)) | Mar 03 2020 |
 | PHY-505     | Computational Physics     | [LUMS University](https://lums.edu.pk) | Python Practice Session ([Resources](https://shiraz-ahmad.com/assets/docs/lums/12_Practise_Session.pdf)) | Feb 27 2020 |
