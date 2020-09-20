@@ -14,7 +14,7 @@ header:
 
 | Course Code | Course Name |    Institute   | Role | Semester |
 | ----------- | ----------------------    | ---------------- | ---------------- |
-| NL-110      | Physics for Engineers Lab | [FAST National University](http://lhr.nu.edu.pk/)| External Instructor    | Fall 2020 |
+| NL-110      | Physics for Engineers Lab  ([Resources](/teachings/nl110)) | [FAST National University](http://lhr.nu.edu.pk/)| External Instructor    | Fall 2020 |
 | PHY-505     | Computational Physics     | [LUMS University](https://lums.edu.pk) | Teaching Assistant (Volunteer) | Spring 2020 |
 | PHY-100/200 | Undergraduate Physics Lab | [LUMS University](https://lums.edu.pk) | Lab Teaching Assistant | Spring 2020 |
 | PHY-100/200 | Undergraduate Physics Lab | [LUMS University](https://lums.edu.pk) |  Lab Teaching Assistant | Fall 2019 |
